@@ -318,8 +318,8 @@ header#pq-header .pq-top-header {
     width: 100%;
     background-color: #779b58;
     display: flex;
-    justify-content: space-around;
-    padding: 5px 20px 5px 20px;
+    justify-content: space-between;
+    padding: 10px 20px 10px 20px;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
     z-index: 1;
 
@@ -339,7 +339,7 @@ header#pq-header .pq-top-header {
     color: #000;
 }
 
-body {
+/* body {
     margin-bottom: 60px;
-    /* Ensure content does not overlap with the fixed section */
-}
+    
+} */
