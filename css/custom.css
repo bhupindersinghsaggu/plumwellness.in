@@ -316,7 +316,7 @@ header#pq-header .pq-top-header {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #779b5845;
+    background-color: #FFF;
     display: flex;
     justify-content: space-between;
     padding: 10px 20px 10px 20px;
