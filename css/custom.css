@@ -1,0 +1,82 @@
+.my-buttom {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #99e8d3;
+    border-radius: 30px;
+    transition: all .3s linear;
+    font-family: "Satoshi Bold", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    background: #99e8d3;
+    cursor: pointer;
+    width: max-content;
+    height: 48px;
+    padding: 0 60px;
+    white-space: nowrap;
+    color: #2f313b;
+    text-transform: capitalize;
+}
+
+.my-color {
+    color: #903bd1
+}
+
+
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.mt-30 {
+    margin-top: 20px;
+}
+
+
+.slider-sub {
+    font-size: 22px;
+    line-height: 37px;
+    padding-top: 20px;
+    font-weight: 100;
+}
+
+.banner .banner-inside .col-70 ul.banner-cta {
+    margin-bottom: 116px;
+}
+
+.flex {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+}
+
+.primary-btn1 {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #99e8d3;
+    border-radius: 30px;
+    transition: all .3s linear;
+    font-family: "Satoshi Bold", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    background: #99e8d3;
+    cursor: pointer;
+    width: max-content;
+    height: 48px;
+    padding: 0 60px;
+    white-space: nowrap;
+    color: #2f313b;
+    text-transform: capitalize;
+}
