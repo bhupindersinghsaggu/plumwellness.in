@@ -329,7 +329,7 @@ header#pq-header .pq-top-header {
 .fixed-icon-section .icon {
     color: white;
     text-decoration: none;
-    font-size: 12px;
+
     height: 48px;
     padding: 0 20px;
     border: 1px solid #7b20e8;
@@ -341,7 +341,7 @@ header#pq-header .pq-top-header {
     transition: all .3s linear;
     font-family: "Satoshi Bold", sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 14px;
     display: -webkit-flex;
     white-space: nowrap;
 }
