@@ -218,7 +218,7 @@
     list-style: none;
 }
 
- /* @media (max-width: 767px) {
+ @media (max-width: 767px) {
     .banner .banner-inside .col-70 ul.banner-cta {
       margin-bottom: 40px;
       flex-direction: column;
@@ -232,7 +232,7 @@
     section {
         padding: 0px 0;
     }
-} */
+} 
 
 .mgr{
     margin-right: 5px;
