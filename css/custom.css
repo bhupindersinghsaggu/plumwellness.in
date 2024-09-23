@@ -172,3 +172,8 @@
     }
   }
 
+  @media (max-width: 767px) {
+    section {
+        padding: 0px 0;
+    }
+}
