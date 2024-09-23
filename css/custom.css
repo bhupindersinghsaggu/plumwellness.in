@@ -57,7 +57,7 @@
         display: -moz-flex;
         display: -ms-flex;
         justify-content: flex-start;
-        flex-direction: column;
+        /* flex-direction: column; */
     }
 }
 
@@ -90,7 +90,7 @@
     cursor: pointer;
     width: max-content;
     height: 48px;
-    padding: 0 60px;
+    padding: 0 30px;
     white-space: nowrap;
     color: #2f313b;
     text-transform: capitalize;
@@ -152,6 +152,62 @@
     text-transform: capitalize;
   
   }
+  @media (max-width: 767px) {
+
+  .primary-btn1  {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid var(--button-color);
+    border-radius: 30px;
+    transition: all .3s linear;
+    font-family: "Satoshi Bold", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    background: var(--button-color);
+    cursor: pointer;
+    width: max-content;
+    height: 48px;
+    padding: 0 25px;
+    white-space: nowrap;
+    color: #FFF;
+    text-transform: capitalize;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: -20px;
+}
+
+.secondary-btn {
+    display: flex;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #2f313b;
+    border-radius: 30px;
+    transition: all .3s linear;
+    font-family: "Satoshi Medium",sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    cursor: pointer;
+    height: 48px;
+    width: max-content;
+    padding: 0 25px;
+    white-space: nowrap;
+    color: #2f313b;
+    background: transparent;
+    text-transform: capitalize;
+  
+  }
+  }
 
 
 .span-color{
@@ -162,7 +218,7 @@
     list-style: none;
 }
 
-@media (max-width: 767px) {
+ /* @media (max-width: 767px) {
     .banner .banner-inside .col-70 ul.banner-cta {
       margin-bottom: 40px;
       flex-direction: column;
@@ -176,8 +232,8 @@
     section {
         padding: 0px 0;
     }
-}
+} */
 
 .mgr{
     margin-right: 5px;
-}
+} 
