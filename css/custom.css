@@ -319,7 +319,7 @@ header#pq-header .pq-top-header {
     background-color: #779b58;
     display: flex;
     justify-content: space-around;
-    padding: 5px 0;
+    padding: 5px 20px 5px 20px;
     box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
     z-index: 1;
 
@@ -329,14 +329,14 @@ header#pq-header .pq-top-header {
 .fixed-icon-section .icon {
     color: white;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 13px;
     padding: 10px;
     border: 1px solid #fff;
     border-radius: 67px;
 }
 
 .fixed-icon-section .icon:hover {
-    color: #f39c12;
+    color: #000;
 }
 
 body {
