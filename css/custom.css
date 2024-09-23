@@ -39,7 +39,7 @@
 
 
 .slider-sub {
-    font-size: 22px;
+    font-size: 20px;
     line-height: 37px;
     padding-top: 20px;
     font-weight: 100;
@@ -107,18 +107,18 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border: 1px solid #8242c3;
+    border: 1px solid var(--button-color);
     border-radius: 30px;
     transition: all .3s linear;
     font-family: "Satoshi Bold", sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 22px;
-    background: #8242c3;
+    background: var(--button-color);
     cursor: pointer;
     width: max-content;
     height: 48px;
-    padding: 0 60px;
+    padding: 0 30px;
     white-space: nowrap;
     color: #FFF;
     text-transform: capitalize;
@@ -145,7 +145,7 @@
     cursor: pointer;
     height: 48px;
     width: max-content;
-    padding: 0 60px;
+    padding: 0 30px;
     white-space: nowrap;
     color: #2f313b;
     background: transparent;
@@ -176,4 +176,8 @@
     section {
         padding: 0px 0;
     }
+}
+
+.mgr{
+    margin-right: 5px;
 }

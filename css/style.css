@@ -63,6 +63,7 @@ Moz Selection
     --white-color: #ffffff;
     --body-fonts: 'Montserrat', sans-serif;
     --title-fonts: 'Kumbh Sans', sans-serif;
+    --button-color:#6610f2;
 }
 
 ::-moz-selection {
@@ -505,7 +506,7 @@ Button Core
     margin: 0;
     border-radius: 0;
     border: none;
-    background: var(--primary-color);
+    background: var(--button-color);
     color: var(--white-color);
     padding: 14px 24px;
     cursor: pointer;
@@ -2466,7 +2467,7 @@ Section Title
     font-size: 14px;
     line-height: 22px;
     text-transform: uppercase;
-    color: var(--primary-color);
+    color: var(--button-color);
     letter-spacing: 0.1em;
     margin: 0 0 15px;
     display: inline-block;
