@@ -68,8 +68,9 @@
     display: -moz-flex;
     display: -ms-flex;
     justify-content: flex-start;
-  
+
 }
+
 
 .primary-btn1 {
     display: flex;
@@ -79,34 +80,6 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border: 1px solid #8242c3;
-    border-radius: 30px;
-    transition: all .3s linear;
-    font-family: "Satoshi Bold", sans-serif;
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 22px;
-    background: #8242c3;
-    cursor: pointer;
-    width: max-content;
-    height: 48px;
-    padding: 0 30px;
-    white-space: nowrap;
-    color: #2f313b;
-    text-transform: capitalize;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: -20px;
-}
-
-.primary-btn1  {
-    display: flex;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
     border: 1px solid var(--button-color);
     border-radius: 30px;
     transition: all .3s linear;
@@ -138,7 +111,7 @@
     border: 1px solid #2f313b;
     border-radius: 30px;
     transition: all .3s linear;
-    font-family: "Satoshi Medium",sans-serif;
+    font-family: "Satoshi Medium", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 22px;
@@ -150,75 +123,108 @@
     color: #2f313b;
     background: transparent;
     text-transform: capitalize;
-  
-  }
-  @media (max-width: 767px) {
 
-  .primary-btn1  {
-    display: flex;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid var(--button-color);
-    border-radius: 30px;
-    transition: all .3s linear;
-    font-family: "Satoshi Bold", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 22px;
-    background: var(--button-color);
-    cursor: pointer;
-    width: max-content;
-    height: 48px;
-    padding: 0 25px;
-    white-space: nowrap;
-    color: #FFF;
-    text-transform: capitalize;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: -20px;
 }
 
-.secondary-btn {
-    display: flex;
-    display: -webkit-flex;
-    display: -moz-flex;
-    display: -ms-flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid #2f313b;
-    border-radius: 30px;
-    transition: all .3s linear;
-    font-family: "Satoshi Medium",sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 22px;
-    cursor: pointer;
-    height: 48px;
-    width: max-content;
-    padding: 0 25px;
-    white-space: nowrap;
-    color: #2f313b;
-    background: transparent;
-    text-transform: capitalize;
-  
-  }
-  }
+@media (max-width: 767px) {
+
+    .primary-btn1 {
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid var(--button-color);
+        border-radius: 30px;
+        transition: all .3s linear;
+        font-family: "Satoshi Bold", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        background: var(--button-color);
+        cursor: pointer;
+        width: max-content;
+        height: 48px;
+        padding: 0 25px;
+        white-space: nowrap;
+        color: #FFF;
+        text-transform: capitalize;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        margin-left: -20px;
+    }
+
+    .secondary-btn {
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #2f313b;
+        border-radius: 30px;
+        transition: all .3s linear;
+        font-family: "Satoshi Medium", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        cursor: pointer;
+        height: 48px;
+        width: max-content;
+        padding: 0 25px;
+        white-space: nowrap;
+        color: #2f313b;
+        background: transparent;
+        text-transform: capitalize;
+
+    }
+    .sevices-btn {
+        display: flex;
+        display: -webkit-flex;
+        display: -moz-flex;
+        display: -ms-flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border: 1px solid #ffffff;
+        border-radius: 30px;
+        transition: all .3s linear;
+        font-family: "Satoshi Medium", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        cursor: pointer;
+        height: 48px;
+        width: max-content;
+        padding: 0 25px;
+        white-space: nowrap;
+        color: #ffffff;
+        background: transparent;
+        text-transform: capitalize;
+
+    }
+}
 
 
-.span-color{
+.bott0n-border{
+    border: 1px solid var(--white-color);
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.span-color {
 
     color: #779b58;
 }
-.ul-list-hero{
+
+.ul-list-hero {
     list-style: none;
 }
 
- /* @media (max-width: 767px) {
+/* @media (max-width: 767px) {
     .banner .banner-inside .col-70 ul.banner-cta {
       margin-bottom: 40px;
       flex-direction: column;
@@ -228,21 +234,22 @@
     }
   } */
 
-  @media (max-width: 767px) {
+@media (max-width: 767px) {
     section {
         padding: 0px 0;
     }
-} 
+}
 
-.mgr{
+.mgr {
     margin-right: 5px;
-} 
+}
 
 @media (max-width: 479px) {
     .pq-section-title-style-1 .pq-section-title {
         font-size: 22px;
         line-height: 33px;
     }
+
     .slider-sub {
         font-size: 17px;
         line-height: 32px;
@@ -258,4 +265,36 @@
         display: -ms-flex;
         justify-content: center;
     }
+    
+}
+
+header#pq-header .pq-top-header {
+    background: #779b58;
+    padding: 0;
+    font-size: 14px;
+}
+
+
+@media (max-width: 1199px) {
+    .pq-services {
+        padding: 19px 0;
+    }
+}
+
+.pq-services {
+    padding: 38px 0 130px 0;
+}
+
+.bg-purple {
+    background: var(--button-color);
+}
+
+.icon-pd {
+    padding-top: 21px;
+
+    max-width: 60px;
+}
+
+.txt-center{
+    text-align: center;
 }

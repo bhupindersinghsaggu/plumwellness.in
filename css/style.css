@@ -55,7 +55,7 @@ Design and Developed by: PeacefulQode
 Moz Selection
 ================================================*/
 :root {
-    --primary-color: #7FB82D;
+    --primary-color: #779b58;
     --blue-color: #c10028;
     --dark-color: #222222;
     --secondary-color: #6C6C6C;
@@ -63,7 +63,7 @@ Moz Selection
     --white-color: #ffffff;
     --body-fonts: 'Montserrat', sans-serif;
     --title-fonts: 'Kumbh Sans', sans-serif;
-    --button-color:#6610f2;
+    --button-color: #7b20e8;
 }
 
 ::-moz-selection {
