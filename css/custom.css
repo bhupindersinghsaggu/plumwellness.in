@@ -282,7 +282,7 @@ header#pq-header .pq-top-header {
 }
 
 .pq-services {
-    padding: 38px 0 130px 0;
+    padding: 100px 0 130px 0;
 }
 
 .bg-purple {
@@ -297,4 +297,14 @@ header#pq-header .pq-top-header {
 
 .txt-center{
     text-align: center;
+}
+
+.service-txt{
+    font-size: 28px;
+    font-weight: 500;
+    font-family: var(--title-fonts);
+    color: #fff;
+    padding-bottom: 20px;
+    text-transform: capitalize;
+    padding-top: 20px;
 }
