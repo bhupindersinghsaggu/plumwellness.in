@@ -2488,8 +2488,8 @@ Section Title
 .pq-section-title-style-1 .pq-section-title {
     font-family: var(--title-fonts);
     font-weight: 700;
-  font-size: 63px;
-  line-height: 81px;
+    font-size: 63px;
+    line-height: 81px;
     z-index: 9;
     color: var(--dark-color);
     padding: 0;
