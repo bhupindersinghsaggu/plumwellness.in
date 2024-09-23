@@ -245,6 +245,10 @@
     margin-right: 5px;
 }
 
+.mgr10 {
+    margin-right: 10px;
+}
+
 @media (max-width: 479px) {
     .pq-section-title-style-1 .pq-section-title {
         font-size: 22px;
@@ -347,10 +351,20 @@ header#pq-header .pq-top-header {
 }
 
 .fixed-icon-section .icon:hover {
-    color: #fff;
+    color: #f8f8f8;
 }
 
 /* body {
     margin-bottom: 60px;
     
 } */
+
+@media(min-width:979px) {
+    .fixed-icon-section {
+        display: none;
+    }
+}
+
+.img-mx-w {
+    max-width: 110px;
+}
