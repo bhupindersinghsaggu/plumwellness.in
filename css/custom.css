@@ -376,4 +376,12 @@ header#pq-header .pq-top-header {
 .rating{
     font-size: 12px;
 }
+.sec-padding{
+    padding-top: 50px;
+}
+}
+
+
+.sec-padding{
+    padding-top: 100px;
 }

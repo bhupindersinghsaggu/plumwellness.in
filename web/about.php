@@ -9,9 +9,7 @@
             <div class="pq-section-title-style-1">
                <span class="pq-section-sub-title">about us</span>
                <h5 class="pq-section-title"><span class="span-color">Personalized</span> coaching to help you cultivate a <span class="span-color">healthier</span> lifestyle</h5>
-               <!-- <p class="pq-section-description">There are many variations of passages of Lorem Ipsum available, but
-                  the majority have suffered alteration in some form, by injected humour, or randomised words which
-                  don't look even slightly believable.</p> -->
+               <p class="pq-section-description">At Plumwellness, we offer personalized nutrition coaching tailored to your unique needs and lifestyle. Our certified experts create sustainable, science-backed plans to help you achieve your health goals, whether it's improving your diet, managing a condition, or boosting your overall well-being. We're here to support you every step of the way.</p>
             </div>
             <!-- <div class="pq-about-counter-container">
                   <h6 class="about-counter-heading-title about-counter-size-default">Nutration Special Offers</h6>
