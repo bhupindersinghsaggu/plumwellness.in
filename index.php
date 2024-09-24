@@ -30,11 +30,10 @@ include('web/about.php');
                   </div>
                </div> -->
                <h5 class="pq-section-title">Trusted By More Then <span class="span-color">1000+ </span> Happy People</h5>
-               <!-- <p class="pq-section-description pq-video-description">There are many variations of passages of Lorem
-                  Ipsum available, but the majority have suffered alteration in some form, by injected</p> -->
+               <p class="pq-section-description pq-video-description">Today, Fitelo is not only helping clients lose weight but also supporting them in managing and reversing conditions such as PCOD/PCOS, diabetes, hypertension, and thyroid disorders.</p>
                <div class="pq-button-container pq-video-btn d-flex justify-content-center ">
                   <a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                     secondary-btn md-btn bott0n-border "> <i class="fa-brands fa-whatsapp mgr"></i> Get Your Free Consultation</a>
+                     secondary-btn md-btn bott0n-border "> <i class=" fa-brands fa-whatsapp mgr"></i> Get Your Free Consultation</a>
                </div>
             </div>
          </div>
@@ -42,7 +41,77 @@ include('web/about.php');
    </div>
 </section>
 <!-- <video2-end> -->
-
+<section class="partners pq">
+   <div class="container">
+      <div class="row">
+         <div class="col-lg-12 wow  fadeInDown   animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="pq-section-title-style-1 text-center">
+               <h5 class="pq-section-title">Meet the Team</h5>
+            </div>
+         </div>
+         <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="item ">
+               <div class="pq-blog-post ">
+                  <div class="pq-testimonial-img d-flex justify-content-center">
+                     <img decoding="async" src="images/team/D.jpg" alt="Testimonial-image">
+                  </div>
+                  <div class="pq-blog-contain ">
+                     <h5 class="pq-blog-title txt-center">Dt. Miksha Arora</h5>
+                     <div class="pq-testimonial-meta txt-center">
+                     <h6 class="ad-title-text">Weight Loss Expert</h6> <span>10+ Years of Experience</span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="item ">
+               <div class="pq-blog-post ">
+                  <div class="pq-testimonial-img d-flex justify-content-center">
+                     <img decoding="async" src="images/team/b.jpg" alt="Testimonial-image">
+                  </div>
+                  <div class="pq-blog-contain ">
+                     <h5 class="pq-blog-title txt-center">Dt. Bhawna </h5>
+                     <div class="pq-testimonial-meta txt-center">
+                     <h6 class="ad-title-text">Disease Management Expert</h6><span>5+ Years of Experience</span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="item ">
+               <div class="pq-blog-post ">
+                  <div class="pq-testimonial-img d-flex justify-content-center">
+                     <img decoding="async" src="images/team/c.jpg" alt="Testimonial-image">
+                  </div>
+                  <div class="pq-blog-contain ">
+                     <h5 class="pq-blog-title txt-center">Dt. Jyoti </h5>
+                     <div class="pq-testimonial-meta txt-center">
+                     <h6 class="ad-title-text">Disease Management Expert</h6><span>7+ Years of Experience</span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated" style="visibility: visible; animation-name: fadeInUp;">
+            <div class="item ">
+               <div class="pq-blog-post ">
+                  <div class="pq-testimonial-img d-flex justify-content-center">
+                     <img decoding="async" src="images/team/a.jpg" alt="Testimonial-image">
+                  </div>
+                  <div class="pq-blog-contain ">
+                     <h5 class="pq-blog-title txt-center">Dt. Pooja </h5>
+                     <div class="pq-testimonial-meta txt-center">
+                     <h6 class="ad-title-text">Weight Loss Expert</h6><span>8+ Years of Experience</span>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <?php
 include('web/footer.php');
 ?>

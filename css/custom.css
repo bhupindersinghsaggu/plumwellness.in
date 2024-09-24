@@ -237,7 +237,7 @@
 
 @media (max-width: 767px) {
     section {
-        padding: 0px 0;
+        padding: 30px 0;
     }
 }
 
@@ -251,8 +251,8 @@
 
 @media (max-width: 479px) {
     .pq-section-title-style-1 .pq-section-title {
-        font-size: 22px;
-        line-height: 33px;
+        font-size: 35px;
+        line-height: 44px;
     }
 
     .slider-sub {
