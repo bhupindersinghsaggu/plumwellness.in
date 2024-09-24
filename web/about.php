@@ -1,17 +1,17 @@
 <!-- <about-counter-start> -->
 <section class="about-counter">
-   <div class="vector vector-1">
+   <!-- <div class="vector vector-1">
       <img src="images/vector/6.png" alt="vector">
-   </div>
+   </div> -->
    <div class="container">
       <div class="row align-items-center">
          <div class="col-lg-5 col-md-12 wow animated fadeInLeft">
             <div class="pq-section-title-style-1">
-               <span class="pq-section-sub-title">about nutritius</span>
-               <h5 class="pq-section-title">Personalized coaching to help you cultivate a healthier lifestyle</h5>
-               <p class="pq-section-description">There are many variations of passages of Lorem Ipsum available, but
+               <span class="pq-section-sub-title">about us</span>
+               <h5 class="pq-section-title"><span class="span-color">Personalized</span> coaching to help you cultivate a <span class="span-color">healthier</span> lifestyle</h5>
+               <!-- <p class="pq-section-description">There are many variations of passages of Lorem Ipsum available, but
                   the majority have suffered alteration in some form, by injected humour, or randomised words which
-                  don't look even slightly believable.</p>
+                  don't look even slightly believable.</p> -->
             </div>
             <!-- <div class="pq-about-counter-container">
                   <h6 class="about-counter-heading-title about-counter-size-default">Nutration Special Offers</h6>
@@ -40,15 +40,12 @@
                   </div> -->
                <div class="col-lg-12">
                   <div class="pq-button-container pq-about-main-btn">
-                     <a class="pq-button pq-btn-flat" href="about-us.html">
-                        <span class="pq-btn-text">
-                           <img src="images/btn-img.svg" alt="svg-image">read more</span>
-                        <div class="pq-btn-cover">
-                           <span class="pq-btn-text pq-btn-cover-text">
-                              <img src="images/btn-img.svg" alt="svg-image">read more</span>
-                           <div class="pq-btn-cover-bgrnd"></div>
-                        </div>
-                     </a>
+                     <ul class="banner-cta flex ul-list-hero">
+                        <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
+                              Talk to us</a></li>
+                        <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                              secondary-btn md-btn"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
+                     </ul>
                   </div>
                </div>
             </div>
@@ -96,7 +93,7 @@
                                  <span class="pq-counter-prefix">+</span> -->
                               <img src="images/icons/trust.png">
                            </div>
-                           <h5 class="pq-counter-title">TurstScore 4.0 | 47 Reviews</h5>
+                           <h5 class="pq-counter-title">TrustScore 4.0 | 47 Reviews</h5>
                         </div>
                      </div>
                   </div>
@@ -110,7 +107,7 @@
                                  <span class="pq-counter-prefix">+</span> -->
                               <img src="images/icons/google.png">
                            </div>
-                           <h5 class="pq-counter-title">TurstScore 5.0 | 66 Reviews</h5>
+                           <h5 class="pq-counter-title">Google Rating 5.0 | 66 Reviews</h5>
                         </div>
                      </div>
                   </div>

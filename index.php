@@ -1,8 +1,9 @@
 <?php
 include('web/header.php');
 include('web/hero-section.php');
-include('web/about.php');
 include('web/services.php');
+include('web/about.php');
+
 ?>
 <!-- <project-section-start> -->
 <section class="Project p-0">
