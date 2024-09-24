@@ -215,9 +215,11 @@
             var url = "https://wa.me/" + phonenumber + "?text=" +
                 "*Name :* " + name + "%0a" +
                 "*Phone:* " + phone + "%0a" +
-                "*Message :* " + message + "%0a%0a" +
+                "*Message :* " + message +
+                "%0a%0a" +
+                "";
 
-                window.open(url, '_blank').focus();
+            window.open(url, '_blank').focus();
         }
         </script>
         <!-- Button trigger modal -->
