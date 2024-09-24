@@ -146,44 +146,109 @@
     </header>
     <!-- <header-end> -->
 
+    <style>
+    * {
+        font-family: Arial, sans-serif;
+    }
 
-    <!-- Button trigger modal -->
-    <!-- Modal -->
-    <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div class="col-xl-12 col-lg-6 mt-4 mt-xl-0">
-                        <div class="appoinment-box">
-                            <form class="pq-applyform">
-                                <label for="">Name</label>
-                                <input type="text" class="name" class="form-control pq-bg-white paitent-name-field">
+    form {
+        margin: 15px 5px;
+        width: 500px;
+        font-size: 16px;
+    }
 
-                                <label for="">Email</label>
-                                <input type="text" class="email" class="form-control pq-bg-white phone-number-field">
+    form h1 {
+        text-align: center;
+    }
 
-                                <label for="">Country</label>
-                                <input type="text" class="country" class="form-control pq-bg-white phone-number-field">
+    form label {
+        display: block;
+        margin-bottom: 5px;
+    }
 
-                                <label for="">Message</label>
-                                <textarea class="message class=" form-control pq-bg-white
-                                    phone-number-field""></textarea>
-                                <button type="button" onclick="sendwhatsapp();">Send Via WhatsApp</button>
-                            </form>
+    form input,
+    form textarea {
+        width: 100%;
+        padding: 5px;
+        margin-bottom: 10px;
+        box-sizing: border-box;
+        resize: vertical;
+    }
+
+    form button {
+        background: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        margin-top: 5px;
+        border: none;
+        cursor: pointer;
+    }
+
+    form button:hover {
+        background: green;
+    }
+    </style>
+
+    <body>
+        <!-- <form>
+            <h1>Send Data To WhatsApp</h1>
+            <label for="">Name</label>
+            <input type="text" class="name">
+
+
+            <label for="">Phone No.</label>
+            <input type="text" class="phone">
+
+            <label for="">Message</label>
+            <textarea class="message"></textarea>
+            <button type="button" onclick="sendwhatsapp();">Send Via WhatsApp</button>
+        </form> -->
+
+        <script>
+        function sendwhatsapp() {
+            var phonenumber = "+6285101556689";
+
+            var name = document.querySelector(".name").value;
+            var phone = document.querySelector(".phone").value;
+            var message = document.querySelector(".message").value;
+
+            var url = "https://wa.me/" + phonenumber + "?text=" +
+                "*Name :* " + name + "%0a" +
+                "*Phone:* " + phone + "%0a" +
+                "*Message :* " + message +
+                "%0a%0a" +
+                "This is an example of send HTML form data to WhatsApp";
+
+            window.open(url, '_blank').focus();
+        }
+        </script>
+        <!-- Button trigger modal -->
+        <!-- Modal -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="col-xl-12 col-lg-6 mt-4 mt-xl-0">
+                            <div class="appoinment-box">
+                                <form>
+                                    <label for="">Name</label>
+                                    <input type="text" class="name">
+                                    <label for="">Phone No.</label>
+                                    <input type="text" class="phone">
+                                    <label for="">Message</label>
+                                    <textarea class="message"></textarea>
+                                    <button type="button" onclick="sendwhatsapp();">Submit</button>
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <!-- <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-primary">Save changes</button>
-                </div> -->
             </div>
         </div>
-    </div>
