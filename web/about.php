@@ -113,6 +113,118 @@
             </div>
          </div>
       </div>
+      <!-- <div class="row sec-padding50">
+         <div class="col-lg-6 wow  fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+            <div class="pq-icon-box pq-style-5">
+               <div class="pq-icon-box-wrapper">
+                  <div class="pq-icon">
+                     <a href="weight-los-programs-service.html"><i class="flaticon-nutrition-4"></i></a>
+                  </div>
+                  <div class="pq-icon-box-content">
+                     <h6 class="pq-icon-box-title"><a href="weight-los-programs-service.html">We Provide Best
+                           Nutrition Service &amp; Diets</a></h6>
+                  </div>
+               </div>
+               <a href="classes.html" class="pq-link"><i class="ion ion-ios-arrow-thin-right"></i></a>
+            </div>
+         </div>
+         <div class="col-lg-6 mt-4 mt-lg-0 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+            <div class="pq-icon-box pq-style-5">
+               <div class="pq-icon-box-wrapper">
+                  <div class="pq-icon">
+                     <a href="appointment.html"><i class="flaticon-healthy-food-1"></i></a>
+                  </div>
+                  <div class="pq-icon-box-content">
+                     <h6 class="pq-icon-box-title"><a href="appointment.html">Appointment &amp; Get Your Free
+                           Consulting</a></h6>
+                  </div>
+               </div>
+               <a href="personalized-nutrition-service.html" class="pq-link"><i class="ion ion-ios-arrow-thin-right"></i></a>
+            </div>
+         </div>
+      </div> -->
+      <div class="row align-items-center sec-padding50">
+         <div class="col-lg-12 wow  fadeInDown  animated" style="visibility: visible; animation-name: fadeInDown;">
+            <div class="pq-section-title-style-1 text-center">
+               <h5 class="pq-section-title">Our succses-stories</h5>
+            </div>
+         </div>
+         <div class="col-lg-12 mt-4 wow animated fadeInUp">
+            <div class="owl-carousel owl-loaded owl-drag" data-dots="true" data-nav="false" data-desk_num="2"
+               data-lap_num="2" data-tab_num="2" data-mob_num="1" data-mob_sm="1" data-autoplay="true"
+               data-loop="true" data-margin="30">
+               <div class="item">
+                  <div class="pq-service-style-5">
+                     <div class="pq-service-media">
+                        <div class="pq-service-media-img">
+                           <img decoding="async"
+                              src="images/story/1.jpg"
+                              alt="servicebox">
+                        </div>
+                     </div>
+                     <div class="pq-service-info">
+                        <div class="pq-info-text">
+                           <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                           <h5 class="pq-service-title"> Rupinder Fat Loss Transformation | Lost 8 Kgs In Just 30 Days  </h5>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="pq-service-style-5">
+                     <div class="pq-service-media">
+                        <div class="pq-service-media-img">
+                           <img decoding="async"
+                              src="images/story/3.jpg"
+                              alt="servicebox">
+                        </div>
+                     </div>
+                     <div class="pq-service-info">
+                        <div class="pq-info-text">
+                           <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                           <h5 class="pq-service-title"> Jyoti Fat Loss Transformation | Lost 10 Kgs In Just 60 Days </h5>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="item">
+                  <div class="pq-service-style-5">
+                     <div class="pq-service-media">
+                        <div class="pq-service-media-img">
+                           <img decoding="async"
+                              src="images/story/2.jpg"
+                              alt="servicebox">
+                        </div>
+                     </div>
+                     <div class="pq-service-info">
+                        <div class="pq-info-text">
+                           <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                           <h5 class="pq-service-title"> Sakshi Fat Loss Transformation | Lost 6 Kgs In Just 30 Days </h5>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+              
+               <div class="item">
+                  <div class="pq-service-style-5">
+                     <div class="pq-service-media">
+                        <div class="pq-service-media-img">
+                           <img decoding="async"
+                              src="images/story/4.jpg"
+                              alt="servicebox">
+                        </div>
+                     </div>
+                     <div class="pq-service-info">
+                        <div class="pq-info-text">
+                           <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                           <h5 class="pq-service-title"> Pooja Fat Loss Transformation | Lost 4 Kgs In Just 30 Days </h5>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
    </div>
 </section>
 <!-- <about-counter-end> -->

@@ -1,7 +1,13 @@
 <!-- <service-section-start> -->
 <section class="service3 pq-services bg-purple">
    <div class="container">
+      <div class="col-lg-12 wow  fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+         <div class="pq-section-title-style-1 text-center">
+            <h5 class="pq-section-title txt-white">Our Services</h5>
+         </div>
+      </div>
       <div class="row">
+
          <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp animated"
             style="visibility: visible; animation-name: fadeInUp;">
             <div class="pq-icon-box pq-style-2 txt-center">

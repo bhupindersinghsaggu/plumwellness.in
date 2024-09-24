@@ -383,5 +383,18 @@ header#pq-header .pq-top-header {
 
 
 .sec-padding{
-    padding-top: 100px;
+    padding-top: 100px !important;
+}
+
+.sec-padding50{
+    padding-top: 50px !important;
+}
+
+.sec-padding-tb-100{
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+}
+
+.txt-white{
+    color:#FFF !important;
 }
