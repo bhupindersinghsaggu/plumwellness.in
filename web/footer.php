@@ -93,7 +93,8 @@
     <!-- <a href="#home" class="icon"><i class="fas fa-home"></i></a> -->
     <a href="tel:91+919988993972" class="icon"><i class="fa-solid fa-phone mgr"></i> Call to an Expert </a>
     <a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="icon" style="background: #779b58;
-    border: 1px solid #779b58;"> <i class="fa-brands fa-whatsapp mgr "></i> Whatsapp Us</a>
+    border: 1px solid #779b58;" data-toggle="modal" data-target="#exampleModal"> <i
+            class="fa-brands fa-whatsapp mgr "></i> Whatsapp Us</a>
 </div>
 <!--Back To Top End-->
 <!--jquery js-->

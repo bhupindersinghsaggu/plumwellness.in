@@ -36,7 +36,8 @@ include('web/about.php');
                         PCOD/PCOS, diabetes, hypertension, and thyroid disorders.</p>
                     <div class="pq-button-container pq-video-btn d-flex justify-content-center ">
                         <a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                            secondary-btn md-btn bott0n-border "> <i class=" fa-brands fa-whatsapp mgr"></i> Get Your
+                            secondary-btn md-btn bott0n-border" data-toggle="modal" data-target="#exampleModal"> <i
+                                class=" fa-brands fa-whatsapp mgr"></i> Get Your
                             Free Consultation</a>
                     </div>
                 </div>
