@@ -366,5 +366,14 @@ header#pq-header .pq-top-header {
 }
 
 .img-mx-w {
-    max-width: 313px;
+    max-width: 140px;
+}
+
+@media (max-width: 479px) {
+.img-mx-w {
+    max-width: 100px;
+}
+.rating{
+    font-size: 12px;
+}
 }
