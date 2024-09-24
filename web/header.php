@@ -206,7 +206,7 @@
 
         <script>
         function sendwhatsapp() {
-            var phonenumber = "+6285101556689";
+            var phonenumber = "+919988993972";
 
             var name = document.querySelector(".name").value;
             var phone = document.querySelector(".phone").value;
@@ -215,11 +215,9 @@
             var url = "https://wa.me/" + phonenumber + "?text=" +
                 "*Name :* " + name + "%0a" +
                 "*Phone:* " + phone + "%0a" +
-                "*Message :* " + message +
-                "%0a%0a" +
-                "This is an example of send HTML form data to WhatsApp";
+                "*Message :* " + message + "%0a%0a" +
 
-            window.open(url, '_blank').focus();
+                window.open(url, '_blank').focus();
         }
         </script>
         <!-- Button trigger modal -->
