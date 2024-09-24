@@ -370,31 +370,73 @@ header#pq-header .pq-top-header {
 }
 
 @media (max-width: 479px) {
-.img-mx-w {
-    max-width: 100px;
-}
-.rating{
-    font-size: 12px;
-}
-.sec-padding{
-    padding-top: 50px;
-}
+    .img-mx-w {
+        max-width: 100px;
+    }
+
+    .rating {
+        font-size: 12px;
+    }
+
+    .sec-padding {
+        padding-top: 50px;
+    }
 }
 
 
-.sec-padding{
+.sec-padding {
     padding-top: 100px !important;
 }
 
-.sec-padding50{
+.sec-padding50 {
     padding-top: 50px !important;
 }
 
-.sec-padding-tb-100{
+.sec-padding-tb-100 {
     padding-top: 100px !important;
     padding-bottom: 100px !important;
 }
 
-.txt-white{
-    color:#FFF !important;
+.txt-white {
+    color: #FFF !important;
+}
+
+
+
+
+form {
+    margin: 15px 5px;
+    width: 500px;
+    font-size: 16px;
+}
+
+form h1 {
+    text-align: center;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+form button {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    margin-top: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: green;
 }
