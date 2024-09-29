@@ -97,7 +97,8 @@
                                                         Management </a></li>
                                                 <li class="menu-item "><a href="disease-management.php">Disease
                                                         Management</a></li>
-                                                <li class="menu-item "><a href="stress-management">Stress management</a>
+                                                <li class="menu-item "><a href="stress-management.php">Stress
+                                                        management</a>
                                                 </li>
                                                 <li class="menu-item "><a href="wellness-supplement.php ">Wellness
                                                         supplement
