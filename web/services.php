@@ -12,7 +12,7 @@
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="pq-icon-box pq-style-2 txt-center">
                     <div class="pq-icon">
-                        <a href="pcod.php"><img src="images/icons/pcod.png" class="icon-pd"></a>
+                        <a href="pcod.php"><img src="images/icons/diseases.png" class="icon-pd"></a>
                     </div>
                     <div class="pq-icon-box-content mb-30">
                         <h6 class="service-txt">Disease Management </h6>
@@ -36,13 +36,13 @@
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="pq-icon-box pq-style-2 txt-center">
                     <div class="pq-icon">
-                        <a href="thyroid.php"><img src="images/icons/thyroid.png" class="icon-pd"></a>
+                        <a href="thyroid.php"><img src="images/icons/body-weight-scale .png" class="icon-pd"></a>
                     </div>
                     <div class="pq-icon-box-content">
-                        <h6 class="service-txt">Thyroid </h6>
-                        <p class="pq-icon-box-description">Take control of your thyroid disorder to lose weight
-                            effectively. Understand your condition and use the right strategies to manage your health.
-                            Embrace this journey to empower yourself and achieve your wellness goals.</p>
+                        <h6 class="service-txt">Weight Mangement </h6>
+                        <p class="pq-icon-box-description">We offer personalized weight management programs to help you
+                            lose weight, maintain a healthy lifestyle, or address weight-related health issues with
+                            expert support.</p>
                         <div class="pq-button-container mb-30">
                             <a class="pq-button pq-btn-link" href="thyroid.php">
                                 <span class="pq-btn-text">Know More</span>
@@ -58,12 +58,13 @@
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="pq-icon-box pq-style-2 txt-center">
                     <div class="pq-icon">
-                        <a href="diabetes.php"><img src="images/icons/blood-test.png" class="icon-pd"></a>
+                        <a href="diabetes.php"><img src="images/icons/stress-management.png" class="icon-pd"></a>
                     </div>
                     <div class="pq-icon-box-content">
-                        <h6 class="service-txt">Diabetes </h6>
-                        <p class="pq-icon-box-description">Manage your diabetes with confidence by learning about your
-                            condition and applying the right strategies to reach your health and wellness goals.</p>
+                        <h6 class="service-txt">Stress Management </h6>
+                        <p class="pq-icon-box-description">We offer expert stress management programs to help you regain
+                            control, improve mental well-being, and enhance your quality of life, with tailored
+                            solutions for work, personal, or everyday stress.</p>
                         <div class="pq-button-container mb-30">
                             <a class="pq-button pq-btn-link" href="diabetes.php">
                                 <span class="pq-btn-text">Know More</span>
@@ -78,13 +79,14 @@
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="pq-icon-box pq-style-2 txt-center">
                     <div class="pq-icon">
-                        <a href="thyroid.php"><img src="images/icons/hypertension.png" class="icon-pd"></a>
+                        <a href="thyroid.php"><img src="images/icons/supplement.png" class="icon-pd"></a>
                     </div>
                     <div class="pq-icon-box-content">
-                        <h6 class="service-txt">Hypertension </h6>
-                        <p class="pq-icon-box-description">Take control of your hypertension by understanding your
-                            condition and implementing effective strategies. With informed choices and simple lifestyle
-                            changes, you can manage your health and achieve lasting wellness</p>
+                        <h6 class="service-txt">Wellness Supplement
+                            Products </h6>
+                        <p class="pq-icon-box-description">We provide premium wellness supplements to enhance energy,
+                            boost immunity, and improve mental clarity, helping you achieve optimal health and vitality
+                        </p>
                         <div class="pq-button-container mb-30">
                             <a class="pq-button pq-btn-link" href="diabetes.php">
                                 <span class="pq-btn-text">Know More</span>

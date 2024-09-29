@@ -99,11 +99,8 @@
                                                         Management</a></li>
                                                 <li class="menu-item "><a href="stress-management">Stress management</a>
                                                 </li>
-                                                <li class="menu-item "><a href="skin-hair-management.php">Skin & Hair
-                                                        Management</a>
-                                                </li>
-                                                <li class="menu-item "><a href="weight-loss-with-diet.php ">Weight Loss
-                                                        With Diet
+                                                <li class="menu-item "><a href="wellness-supplement.php ">Wellness
+                                                        supplement
                                                     </a></li>
                                             </ul>
                                         </li>
@@ -130,7 +127,7 @@
                             <div class="pq-button-container">
                                 <button type="button" class="btn btn-primary" data-toggle="modal"
                                     data-target="#exampleModal">
-                                    Launch demo modal
+                                    Book an Appoinment
                                 </button>
                             </div>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
