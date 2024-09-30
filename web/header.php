@@ -151,7 +151,7 @@
 
     form {
         margin: 15px 5px;
-        width: 500px;
+        width: 300px;
         font-size: 16px;
     }
 
