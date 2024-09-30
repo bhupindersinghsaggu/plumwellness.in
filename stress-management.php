@@ -105,34 +105,32 @@ include('web/header.php');
                                     </h4>
                                 </div>
                                 <div class="pq-accordion-details" style="">
-                                    <div class="stress-section">
-                                        <div class="row mt-30 stress-section">
-                                            <div class="col-sm-8">
-                                                <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
-                                                <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
-                                                <ul class="pq-service-list-item">
-                                                    <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                            style="color: var(--button-color);"></i>
-                                                        Medication management
-                                                    </li>
-                                                    <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                            style="color: var(--button-color);"></i>
-                                                        Natural and alternative remedies
-                                                    </li>
-                                                    <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                            style="color: var(--button-color);"></i>
-                                                        Structured therapeutic approaches
-                                                    </li>
-                                                </ul>
-                                                <ul class="banner-cta flex ul-list-hero mt-30">
-                                                    <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
-                                                            Talk to us</a></li>
-                                                    <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                                                            secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
-                                                </ul>
-                                            </div>
-                                            <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/4.webp" alt="image"></div>
+                                    <div class="row mt-30 flex-row-reverse">
+                                        <div class="col-sm-8">
+                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
+                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
+                                            <ul class="pq-service-list-item">
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Medication management
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Natural and alternative remedies
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Structured therapeutic approaches
+                                                </li>
+                                            </ul>
+                                            <ul class="banner-cta flex ul-list-hero mt-30">
+                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
+                                                        Talk to us</a></li>
+                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                                                        secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
+                                            </ul>
                                         </div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/4.webp" alt="image"></div>
                                     </div>
                                 </div>
                                 <div class="pq-accordion-box 2">
@@ -143,7 +141,7 @@ include('web/header.php');
                                         </h6>
                                     </div>
                                     <div class="pq-accordion-details" style="display:none;">
-                                        <div class="row mt-30 stress-section">
+                                        <div class="row mt-30 flex-row-reverse">
                                             <div class="col-sm-8">
                                                 <p class="pq-detail-text"> Anxiety can be more disruptive than it seems at first glance. Our dedicated team of therapists, psychiatrists, and psychologists works with you to identify and manage anxiety triggers through a personalized, results-oriented approach </p>
                                                 <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
@@ -180,7 +178,7 @@ include('web/header.php');
                                         </h6>
                                     </div>
                                     <div class="pq-accordion-details" style="display:none;">
-                                        <div class="row mt-30 stress-section">
+                                        <div class="row mt-30 flex-row-reverse">
                                             <div class="col-sm-8">
                                                 <p class="pq-detail-text"> OCD is a multifaceted disorder with various underlying causes. Our treatment plans are tailored to each individual's unique needs, combining therapy, medication, and advanced scientific techniques like RTMS</p>
                                                 <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
@@ -217,7 +215,7 @@ include('web/header.php');
                                         </h6>
                                     </div>
                                     <div class="pq-accordion-details" style="display:none;">
-                                        <div class="row mt-30 stress-section">
+                                        <div class="row mt-30 flex-row-reverse">
                                             <div class="col-sm-8">
                                                 <p class="pq-detail-text"> The exact cause of bipolar disorder is not fully understood, but it includes a combination of genetic, biological, and environmental factors. Imbalances in brain chemicals and changes in the structure or function of the brain may also play a role.</p>
                                                 <!-- <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5> -->
@@ -240,7 +238,7 @@ include('web/header.php');
                                         </h6>
                                     </div>
                                     <div class="pq-accordion-details" style="display:none;">
-                                        <div class="row mt-30 stress-section">
+                                        <div class="row mt-30 flex-row-reverse">
                                             <div class="col-sm-8">
                                                 <p class="pq-detail-text"> Schizophrenia may be a lifelong condition, but with the right combination of medication and therapy, it can be effectively managed. We provide holistic, outcome-focused treatments designed to support both patients and their caregivers</p>
                                                 <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>

@@ -270,9 +270,7 @@
         display: -ms-flex;
         justify-content: center;
     }
-    .stress-section{
-        flex-direction: row-reverse;
-    }
+   
 
 
 }
