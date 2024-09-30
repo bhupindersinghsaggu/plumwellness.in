@@ -22,7 +22,7 @@
                             is here to support you at every step.
                         </p>
                         <div class="pq-button-container">
-                            <a class="pq-button pq-btn-link" href="pcos.php">
+                            <a class="pq-button pq-btn-link" href="#">
                                 <span class="pq-btn-text">Know More</span>
                             </a>
                         </div>
@@ -44,7 +44,7 @@
                             lose weight, maintain a healthy lifestyle, or address weight-related health issues with
                             expert support.</p>
                         <div class="pq-button-container mb-30">
-                            <a class="pq-button pq-btn-link" href="thyroid.php">
+                            <a class="pq-button pq-btn-link" href="#">
                                 <span class="pq-btn-text">Know More</span>
                             </a>
                         </div>
@@ -66,7 +66,7 @@
                             control, improve mental well-being, and enhance your quality of life, with tailored
                             solutions for work, personal, or everyday stress.</p>
                         <div class="pq-button-container mb-30">
-                            <a class="pq-button pq-btn-link" href="diabetes.php">
+                            <a class="pq-button pq-btn-link" href="stress-management.php">
                                 <span class="pq-btn-text">Know More</span>
                             </a>
                         </div>
@@ -88,7 +88,7 @@
                             boost immunity, and improve mental clarity, helping you achieve optimal health and vitality
                         </p>
                         <div class="pq-button-container mb-30">
-                            <a class="pq-button pq-btn-link" href="diabetes.php">
+                            <a class="pq-button pq-btn-link" href="#">
                                 <span class="pq-btn-text">Know More</span>
                             </a>
                         </div>
