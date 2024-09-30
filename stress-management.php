@@ -81,6 +81,13 @@ include('web/header.php');
                     </div>
                 </div>
             </div>
+            <div class="row mt-30 ">
+                <div class="pq-button-container d-flex justify-content-center">
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+                        Book an Appoinment
+                    </button>
+                </div>
+            </div>
         </div>
     </div>
 </section>
