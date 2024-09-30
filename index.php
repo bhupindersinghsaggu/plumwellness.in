@@ -59,7 +59,7 @@ include('web/about.php');
                 <div class="item ">
                     <div class="pq-blog-post ">
                         <div class="pq-testimonial-img d-flex justify-content-center">
-                            <img decoding="async" src="images/team/D.jpg" alt="Testimonial-image">
+                            <img src="images/team/1234.jpg" alt="Testimonial-image">
                         </div>
                         <div class="pq-blog-contain ">
                             <h5 class="pq-blog-title txt-center">Dt. Miksha Arora</h5>
@@ -75,7 +75,7 @@ include('web/about.php');
                 <div class="item ">
                     <div class="pq-blog-post ">
                         <div class="pq-testimonial-img d-flex justify-content-center">
-                            <img decoding="async" src="images/team/b.jpg" alt="Testimonial-image">
+                            <img src="images/team/b.jpg" alt="Testimonial-image">
                         </div>
                         <div class="pq-blog-contain ">
                             <h5 class="pq-blog-title txt-center">Dt. Bhawna </h5>
@@ -92,7 +92,7 @@ include('web/about.php');
                 <div class="item ">
                     <div class="pq-blog-post ">
                         <div class="pq-testimonial-img d-flex justify-content-center">
-                            <img decoding="async" src="images/team/c.jpg" alt="Testimonial-image">
+                            <img src="images/team/123.jpg" alt="Testimonial-image">
                         </div>
                         <div class="pq-blog-contain ">
                             <h5 class="pq-blog-title txt-center">Dt. Jyoti </h5>
@@ -109,7 +109,7 @@ include('web/about.php');
                 <div class="item ">
                     <div class="pq-blog-post ">
                         <div class="pq-testimonial-img d-flex justify-content-center">
-                            <img decoding="async" src="images/team/a.jpg" alt="Testimonial-image">
+                            <img src="images/team/a.jpg" alt="Testimonial-image">
                         </div>
                         <div class="pq-blog-contain ">
                             <h5 class="pq-blog-title txt-center">Dt. Pooja </h5>
