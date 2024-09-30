@@ -131,8 +131,8 @@ include('web/header.php');
                                                         secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                             </ul>
                                         </div>
-                                       
                                     </div>
+                                </div>
                                 </div>
                                 <div class="pq-accordion-box 2">
                                     <div class="pq-ad-title">
@@ -168,7 +168,6 @@ include('web/header.php');
                                                             secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                                 </ul>
                                             </div>
-                                          
                                         </div>
                                     </div>
                                 </div>
@@ -206,7 +205,6 @@ include('web/header.php');
                                                             secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                                 </ul>
                                             </div>
-                                        
                                         </div>
                                     </div>
                                 </div>
@@ -230,7 +228,6 @@ include('web/header.php');
                                                             secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                                 </ul>
                                             </div>
-                                            
                                         </div>
                                     </div>
                                 </div>
@@ -268,7 +265,6 @@ include('web/header.php');
                                                             secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                                 </ul>
                                             </div>
-                                            
                                         </div>
                                     </div>
                                 </div>
