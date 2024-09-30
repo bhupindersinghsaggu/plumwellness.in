@@ -88,6 +88,134 @@ include('web/header.php');
                     </button>
                 </div>
             </div>
+            <div class="row mt-30 ">
+                <div class="pq-faq2">
+                    <div class="pq-faq2-info">
+                        <div class="col-lg-12 wow  fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
+                            <div class="pq-section-title-style-1 text-center">
+                                <h5 class="pq-section-title">Conditions we Treat</h5>
+                            </div>
+                        </div>
+                        <!-- <p>Nutrition is a long established fact that a reader will be distracted by the readable content of
+                            a page when looking at its layout. Lorem Ipsum is Nutrition dummy text of the printing and
+                            typesetting industry Nutrition. Lorem Ipsum has been the industry’s standard dummy text ever
+                            since.</p> -->
+                        <div class="pq-accordion-block mt-4">
+                            <div class="pq-accordion-box 1 pq-active">
+                                <div class="pq-ad-title">
+                                    <h4 class="ad-title-text">
+                                        Depression
+                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
+                                    </h4>
+                                </div>
+                                <div class="pq-accordion-details" style="">
+                                    <div class="row mt-30 ">
+                                        <div class="col-sm-8">
+                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
+                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
+                                            <ul class="pq-service-list-item">
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Medication management
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Natural and alternative remedies
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Structured therapeutic approaches
+                                                </li>
+                                            </ul>
+                                            <ul class="banner-cta flex ul-list-hero mt-30">
+                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
+                                                        Talk to us</a></li>
+                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                                                        secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/1.jpg" alt="image"></div>
+                                    </div>
+                                
+                            </div>
+                            <div class="pq-accordion-box   2">
+                                <div class="pq-ad-title">
+                                    <h6 class="ad-title-text">
+                                        more information about weight loss program ?
+                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
+                                    </h6>
+                                </div>
+                                <div class="pq-accordion-details" style="display:none;">
+                                    <div class="row mt-30 ">
+                                        <div class="col-sm-8">
+                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
+                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
+                                            <ul class="pq-service-list-item">
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Medication management
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Natural and alternative remedies
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Structured therapeutic approaches
+                                                </li>
+                                            </ul>
+                                            <ul class="banner-cta flex ul-list-hero mt-30">
+                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
+                                                        Talk to us</a></li>
+                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                                                        secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/1.jpg" alt="image"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pq-accordion-box   3">
+                                <div class="pq-ad-title">
+                                    <h6 class="ad-title-text">
+                                        how can improve my health ?
+                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
+                                    </h6>
+                                </div>
+                                <div class="pq-accordion-details" style="display:none;">
+                                    <div class="row mt-30 ">
+                                        <div class="col-sm-8">
+                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
+                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
+                                            <ul class="pq-service-list-item">
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Medication management
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Natural and alternative remedies
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                    Structured therapeutic approaches
+                                                </li>
+                                            </ul>
+                                            <ul class="banner-cta flex ul-list-hero mt-30">
+                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
+                                                        Talk to us</a></li>
+                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                                                        secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/1.jpg" alt="image"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
