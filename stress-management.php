@@ -23,7 +23,7 @@ include('web/header.php');
             </div>
             <div class="col-xl-6 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
                 <div class="pq-progressbar-img">
-                    <img src="images/main2.JPG" class="img-fluid" alt="images">
+                    <img src="images/main22.jpg" class="img-fluid" alt="images">
                 </div>
             </div>
         </div>
@@ -96,10 +96,6 @@ include('web/header.php');
                                 <h5 class="pq-section-title">Conditions we Treat</h5>
                             </div>
                         </div>
-                        <!-- <p>Nutrition is a long established fact that a reader will be distracted by the readable content of
-                            a page when looking at its layout. Lorem Ipsum is Nutrition dummy text of the printing and
-                            typesetting industry Nutrition. Lorem Ipsum has been the industry’s standard dummy text ever
-                            since.</p> -->
                         <div class="pq-accordion-block mt-4">
                             <div class="pq-accordion-box 1 pq-active">
                                 <div class="pq-ad-title">
@@ -134,34 +130,34 @@ include('web/header.php');
                                                         secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                             </ul>
                                         </div>
-                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/1.jpg" alt="image"></div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/4.webp" alt="image"></div>
                                     </div>
                                 
                             </div>
                             <div class="pq-accordion-box   2">
                                 <div class="pq-ad-title">
                                     <h6 class="ad-title-text">
-                                        more information about weight loss program ?
+                                    Anxiety 
                                         <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
                                     </h6>
                                 </div>
                                 <div class="pq-accordion-details" style="display:none;">
                                     <div class="row mt-30 ">
                                         <div class="col-sm-8">
-                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
+                                            <p class="pq-detail-text"> Anxiety can be more disruptive than it seems at first glance. Our dedicated team of therapists, psychiatrists, and psychologists works with you to identify and manage anxiety triggers through a personalized, results-oriented approach </p>
                                             <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
                                             <ul class="pq-service-list-item">
                                                 <li> <i class="fa-solid fa-paper-plane mr-5"
                                                         style="color: var(--button-color);"></i>
-                                                    Medication management
+                                                        Multi-modal interventions
                                                 </li>
                                                 <li> <i class="fa-solid fa-paper-plane mr-5"
                                                         style="color: var(--button-color);"></i>
-                                                    Natural and alternative remedies
+                                                        Holistic strategies
                                                 </li>
                                                 <li> <i class="fa-solid fa-paper-plane mr-5"
                                                         style="color: var(--button-color);"></i>
-                                                    Structured therapeutic approaches
+                                                        Individualized care
                                                 </li>
                                             </ul>
                                             <ul class="banner-cta flex ul-list-hero mt-30">
@@ -171,34 +167,34 @@ include('web/header.php');
                                                         secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                             </ul>
                                         </div>
-                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/1.jpg" alt="image"></div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/5.png" alt="image"></div>
                                     </div>
                                 </div>
                             </div>
                             <div class="pq-accordion-box   3">
                                 <div class="pq-ad-title">
                                     <h6 class="ad-title-text">
-                                        how can improve my health ?
+                                       OCD
                                         <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
                                     </h6>
                                 </div>
                                 <div class="pq-accordion-details" style="display:none;">
                                     <div class="row mt-30 ">
                                         <div class="col-sm-8">
-                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
+                                            <p class="pq-detail-text"> OCD is a multifaceted disorder with various underlying causes. Our treatment plans are tailored to each individual's unique needs, combining therapy, medication, and advanced scientific techniques like RTMS</p>
                                             <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
                                             <ul class="pq-service-list-item">
                                                 <li> <i class="fa-solid fa-paper-plane mr-5"
                                                         style="color: var(--button-color);"></i>
-                                                    Medication management
+                                                        Personalised therapy 
                                                 </li>
                                                 <li> <i class="fa-solid fa-paper-plane mr-5"
                                                         style="color: var(--button-color);"></i>
-                                                    Natural and alternative remedies
+                                                        RTMS treatment
                                                 </li>
                                                 <li> <i class="fa-solid fa-paper-plane mr-5"
                                                         style="color: var(--button-color);"></i>
-                                                    Structured therapeutic approaches
+                                                        Holistic care plan
                                                 </li>
                                             </ul>
                                             <ul class="banner-cta flex ul-list-hero mt-30">
@@ -208,7 +204,67 @@ include('web/header.php');
                                                         secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
                                             </ul>
                                         </div>
-                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/1.jpg" alt="image"></div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/6.webp" alt="image"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pq-accordion-box   4">
+                                <div class="pq-ad-title">
+                                    <h6 class="ad-title-text">
+                                    Bipolar
+                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
+                                    </h6>
+                                </div>
+                                <div class="pq-accordion-details" style="display:none;">
+                                    <div class="row mt-30 ">
+                                        <div class="col-sm-8">
+                                            <p class="pq-detail-text"> The exact cause of bipolar disorder is not fully understood, but it includes a combination of genetic, biological, and environmental factors. Imbalances in brain chemicals and changes in the structure or function of the brain may also play a role.</p>
+                                            <!-- <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5> -->
+                                            <ul class="banner-cta flex ul-list-hero mt-30">
+                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
+                                                        Talk to us</a></li>
+                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                                                        secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/7.jpeg" alt="image"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="pq-accordion-box   5">
+                                <div class="pq-ad-title">
+                                    <h6 class="ad-title-text">
+                                    Schizophrenia 
+                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
+                                    </h6>
+                                </div>
+                                <div class="pq-accordion-details" style="display:none;">
+                                    <div class="row mt-30 ">
+                                        <div class="col-sm-8">
+                                            <p class="pq-detail-text"> Schizophrenia may be a lifelong condition, but with the right combination of medication and therapy, it can be effectively managed. We provide holistic, outcome-focused treatments designed to support both patients and their caregivers</p>
+                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
+                                            <ul class="pq-service-list-item">
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                        Psychosocial treatments
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                        Family-centered therapy
+                                                </li>
+                                                <li> <i class="fa-solid fa-paper-plane mr-5"
+                                                        style="color: var(--button-color);"></i>
+                                                        Medication management
+                                                </li>
+                                            </ul>
+                                            <ul class="banner-cta flex ul-list-hero mt-30">
+                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
+                                                        Talk to us</a></li>
+                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                                                        secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-sm-4 mt-30"><img decoding="async" src="images/services/8.jpg" alt="image"></div>
                                     </div>
                                 </div>
                             </div>
