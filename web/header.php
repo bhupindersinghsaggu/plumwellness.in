@@ -103,6 +103,8 @@
                                                 <li class="menu-item "><a href="wellness-supplement.php ">Wellness
                                                         supplement
                                                     </a></li>
+                                                <li class="menu-item "><a href="skin-hair-management.php">Skin & Hair Management
+                                                    </a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item ">
@@ -145,46 +147,46 @@
     <!-- <header-end> -->
 
     <style>
-    * {
-        font-family: Arial, sans-serif;
-    }
+        * {
+            font-family: Arial, sans-serif;
+        }
 
-    form {
-        margin: 15px 5px;
-        width: 300px;
-        font-size: 16px;
-    }
+        form {
+            margin: 15px 5px;
+            width: 300px;
+            font-size: 16px;
+        }
 
-    form h1 {
-        text-align: center;
-    }
+        form h1 {
+            text-align: center;
+        }
 
-    form label {
-        display: block;
-        margin-bottom: 5px;
-    }
+        form label {
+            display: block;
+            margin-bottom: 5px;
+        }
 
-    form input,
-    form textarea {
-        width: 100%;
-        padding: 5px;
-        margin-bottom: 10px;
-        box-sizing: border-box;
-        resize: vertical;
-    }
+        form input,
+        form textarea {
+            width: 100%;
+            padding: 5px;
+            margin-bottom: 10px;
+            box-sizing: border-box;
+            resize: vertical;
+        }
 
-    form button {
-        background: #4CAF50;
-        color: white;
-        padding: 10px 15px;
-        margin-top: 5px;
-        border: none;
-        cursor: pointer;
-    }
+        form button {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            margin-top: 5px;
+            border: none;
+            cursor: pointer;
+        }
 
-    form button:hover {
-        background: green;
-    }
+        form button:hover {
+            background: green;
+        }
     </style>
 
     <body>
@@ -203,22 +205,22 @@
         </form> -->
 
         <script>
-        function sendwhatsapp() {
-            var phonenumber = "+919988993972";
+            function sendwhatsapp() {
+                var phonenumber = "+919988993972";
 
-            var name = document.querySelector(".name").value;
-            var phone = document.querySelector(".phone").value;
-            var message = document.querySelector(".message").value;
+                var name = document.querySelector(".name").value;
+                var phone = document.querySelector(".phone").value;
+                var message = document.querySelector(".message").value;
 
-            var url = "https://wa.me/" + phonenumber + "?text=" +
-                "*Name :* " + name + "%0a" +
-                "*Phone:* " + phone + "%0a" +
-                "*Message :* " + message +
-                "%0a%0a" +
-                "";
+                var url = "https://wa.me/" + phonenumber + "?text=" +
+                    "*Name :* " + name + "%0a" +
+                    "*Phone:* " + phone + "%0a" +
+                    "*Message :* " + message +
+                    "%0a%0a" +
+                    "";
 
-            window.open(url, '_blank').focus();
-        }
+                window.open(url, '_blank').focus();
+            }
         </script>
         <!-- Button trigger modal -->
         <!-- Modal -->

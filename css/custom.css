@@ -409,3 +409,27 @@ header#pq-header .pq-top-header {
 
 
 
+header#pq-header .pq-bottom-header .navbar .navbar-brand img {
+    height: 94px;
+}
+
+@media (max-width: 479px) {
+    header#pq-header .pq-bottom-header .navbar .navbar-brand img {
+        height: 59px;
+    }
+}
+
+@media (max-width: 1023px) {
+    header#pq-header .pq-bottom-header .navbar-toggler {
+        font-size: 17px;
+        padding: 10px 12px;
+        color: var(--white-color);
+        line-height: normal;
+        float: right;
+        outline: none;
+        margin: 0 0 0 15px;
+        border-radius: 0;
+        background: var(--primary-color);
+        border-radius: 4px;
+    }
+}
