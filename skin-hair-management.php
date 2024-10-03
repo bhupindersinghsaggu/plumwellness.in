@@ -9,7 +9,7 @@ include('web/header.php');
             <div class="col-xl-6 pe-xl-5 pq-process-main wow  fadeInLeft animated"
                 style="visibility: visible; animation-name: fadeInLeft;">
                 <div class="pq-section-title-style-1">
-                    <h5 class="pq-section-title mb-30 ">Rejuvenate Your <span class="span-color">Skin and Hair </span>Naturally – Start Today!
+                    <h5 class="pq-section-title mb-30 ">Revitalize Your <span class="span-color">Skin and Hair </span>Naturally – Start Today!
                     </h5>
                     <p class="pq-fancy-box-title slider-sub">Nourishing solutions tailored to your unique needs. Feel confident in your natural beauty with our premium, science-backed care</p>
                 </div>
