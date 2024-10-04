@@ -35,7 +35,7 @@ include('web/header.php');
             <div class="pq-section-title-style-1 text-center">
                <h5 class="pq-section-title"> Our expert solutions help you take control of your health confidently and easily.
                </h5>
-               <p class="pq-fancy-box-title slider-sub">At Plumwellness, we prioritize personalized care. Our integrated, evidence-based approach is designed to meet your unique skincare and hair care needs, helping you achieve lasting results and restoring your confidence.
+               <p class="pq-fancy-box-title slider-sub">At Plumwellness,  Our Disease Management Solutions are designed to support you every step of the way, empowering you to take control of your health and enhance your quality of life.
                </p>
             </div>
          </div>
