@@ -186,7 +186,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Personalized Treatment Plans:</h5>
+                              <h5 class="pq-process-title">Personalized Treatment Plans</h5>
                               <div class="pq-process-description">
                                  <p>Tailored treatment options including medication, lifestyle changes, and dietary support.</p>
                               </div>
@@ -228,7 +228,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Medication Management:</h5>
+                              <h5 class="pq-process-title">Medication Management</h5>
                               <div class="pq-process-description">
                                  <p>Expert assistance with thyroid hormone replacement therapy and dosage adjustments. </p>
                               </div>
@@ -257,7 +257,7 @@ include('web/header.php');
                         </div>
                      </div>
                   </div>
-                  <ul class="banner-cta flex ul-list-hero">
+                  <ul class="banner-cta flex ul-list-hero mt-30">
                      <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="
                                 primary-btn1 md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Talk to an Expert</a></li>
                   </ul>
@@ -343,7 +343,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Diabetes Education:</h5>
+                              <h5 class="pq-process-title">Diabetes Education</h5>
                               <div class="pq-process-description">
                                  <p>Resources and workshops to help you understand your condition, improve self-care, and prevent complications. </p>
                               </div>
@@ -364,7 +364,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Lifestyle Coaching: </h5>
+                              <h5 class="pq-process-title">Lifestyle Coaching </h5>
                               <div class="pq-process-description">
                                  <p>Advice on fitness, stress management, and sustainable lifestyle changes. </p>
                               </div>
@@ -372,7 +372,7 @@ include('web/header.php');
                         </div>
                      </div>
                   </div>
-                  <ul class="banner-cta flex ul-list-hero">
+                  <ul class="banner-cta flex ul-list-hero mt-30">
                      <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="
                                 primary-btn1 md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Talk to an Expert</a></li>
                   </ul>
@@ -487,7 +487,7 @@ include('web/header.php');
                         </div>
                      </div>
                   </div>
-                  <ul class="banner-cta flex ul-list-hero">
+                  <ul class="banner-cta flex ul-list-hero mt-30">
                      <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="
                                 primary-btn1 md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Talk to an Expert</a></li>
                   </ul>

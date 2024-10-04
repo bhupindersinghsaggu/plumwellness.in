@@ -5640,7 +5640,8 @@ Process Step
 
 .pq-process-2 .pq-process-info .pq-process-title {
     font-size: 22px;
-    color: var(--white-color);
+    /* color: var(--white-color); */
+    color: #779b58;
 }
 
 .pq-process-2 .pq-process-description p {
