@@ -438,3 +438,10 @@ header#pq-header .pq-bottom-header .navbar .navbar-brand img {
     position: relative !important;
     padding: 50px 0px !important;
 }
+
+.pq-process-2 .pq-process-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
