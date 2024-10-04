@@ -445,3 +445,10 @@ header#pq-header .pq-bottom-header .navbar .navbar-brand img {
     align-items: center;
     padding: 10px;
 }
+
+@media (max-width: 767px) {
+    .pq-process-2 .pq-process-info {
+        margin: 0;
+        text-align: right;
+    }
+}

@@ -144,6 +144,10 @@ include('web/header.php');
                         </div>
                      </div>
                   </div>
+                  <ul class="banner-cta flex ul-list-hero">
+                     <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="
+                                primary-btn1 md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Talk to an Expert</a></li>
+                  </ul>
                </div>
             </div>
          </div>
@@ -253,6 +257,240 @@ include('web/header.php');
                         </div>
                      </div>
                   </div>
+                  <ul class="banner-cta flex ul-list-hero">
+                     <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="
+                                primary-btn1 md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Talk to an Expert</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="step pq-about-bg-color pq-dark-bg-side-right sec-padding50">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-lg-12 col-xl-6 wow  fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+            <div class="pq-main-about-img">
+               <div class="pq-about-img2">
+                  <img src="images/services/die.jpg" class="img-fluid" alt="about">
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-12 col-xl-6 mt-4 mt-xl-0 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+            <div class="pq-steps-process">
+               <div class="pq-section-title-style-1 ">
+                  <h5 class="pq-section-title pq-about-title">Diabetes Management</h5>
+                  <p class="pq-section-description pq-about-description">
+                     Diabetes management is challenging, but we provide the support, education, and tools for a healthier life.</p>
+                  <h5 class="pq-service-title text-white mt-30"> Our Services Include:
+                  </h5>
+               </div>
+               <div class="pq-about-main-container">
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">1</span>
+                           </div>
+                           <!-- <div class="pq-process-image-curve">
+                                 <div class="pq-process-image-curve-inner">
+                                 </div>
+                              </div> -->
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Personalized Care Plans</h5>
+                              <div class="pq-process-description">
+                                 <p>Personalized diabetes care plans tailored to your needs, focused on effective blood sugar control.
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">2</span>
+                           </div>
+                           <!-- <div class="pq-process-image-curve">
+                                 <div class="pq-process-image-curve-inner">
+                                 </div>
+                              </div> -->
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Nutrition Counseling</h5>
+                              <div class="pq-process-description">
+                                 <p>Tailored dietary advice and meal planning that fits your preferences while managing blood sugar effectively.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">3</span>
+                           </div>
+                           <!-- <div class="pq-process-image-curve">
+                                 <div class="pq-process-image-curve-inner pq-last-line">
+                                 </div>
+                              </div> -->
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Diabetes Education:</h5>
+                              <div class="pq-process-description">
+                                 <p>Resources and workshops to help you understand your condition, improve self-care, and prevent complications. </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">4</span>
+                           </div>
+                           <div class="pq-process-image-curve">
+                              <div class="pq-process-image-curve-inner pq-last-line">
+                              </div>
+                           </div>
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Lifestyle Coaching: </h5>
+                              <div class="pq-process-description">
+                                 <p>Advice on fitness, stress management, and sustainable lifestyle changes. </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <ul class="banner-cta flex ul-list-hero">
+                     <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="
+                                primary-btn1 md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Talk to an Expert</a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<section class="step pq-about-bg-color pq-dark-bg-side-right sec-padding50">
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-lg-12 col-xl-6 wow  fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;">
+            <div class="pq-main-about-img">
+               <div class="pq-about-img2">
+                  <img src="images/services/hyper.jpg" class="img-fluid" alt="about">
+               </div>
+            </div>
+         </div>
+         <div class="col-lg-12 col-xl-6 mt-4 mt-xl-0 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
+            <div class="pq-steps-process">
+               <div class="pq-section-title-style-1 ">
+                  <h5 class="pq-section-title pq-about-title">Hypertension Management</h5>
+                  <p class="pq-section-description pq-about-description">
+                     Hypertension, the "silent killer," increases the risk of heart disease and stroke. Our program helps you maintain healthy blood pressure for a better life.</p>
+                  <h5 class="pq-service-title text-white mt-30"> Our Services Include:
+                  </h5>
+               </div>
+               <div class="pq-about-main-container">
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">1</span>
+                           </div>
+                           <!-- <div class="pq-process-image-curve">
+                                 <div class="pq-process-image-curve-inner">
+                                 </div>
+                              </div> -->
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Expert-Led Care</h5>
+                              <div class="pq-process-description">
+                                 <p>Our experienced healthcare professionals offer personalized support at every step.
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">2</span>
+                           </div>
+                           <!-- <div class="pq-process-image-curve">
+                                 <div class="pq-process-image-curve-inner">
+                                 </div>
+                              </div> -->
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Regular Monitoring</h5>
+                              <div class="pq-process-description">
+                                 <p>Continuous tracking of your blood pressure to ensure optimal management and prevent complications.</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">3</span>
+                           </div>
+                           <!-- <div class="pq-process-image-curve">
+                                 <div class="pq-process-image-curve-inner pq-last-line">
+                                 </div>
+                              </div> -->
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Patient-Centered</h5>
+                              <div class="pq-process-description">
+                                 <p>We work with you to create a manageable plan that fits your daily routine and personal goals. </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class=" pq-process-2 ">
+                     <div class="pq-process-item">
+                        <div class="pq-process-image-content">
+                           <div class="pq-process-img">
+                              <span class="pq-process-number">4</span>
+                           </div>
+                           <div class="pq-process-image-curve">
+                              <div class="pq-process-image-curve-inner pq-last-line">
+                              </div>
+                           </div>
+                        </div>
+                        <div class="pq-process-info">
+                           <div class="pq-process-content">
+                              <h5 class="pq-process-title">Education & Resources </h5>
+                              <div class="pq-process-description">
+                                 <p>Tools to help you understand hypertension and empower you to make informed decisions about your health. </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <ul class="banner-cta flex ul-list-hero">
+                     <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" class="
+                                primary-btn1 md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Talk to an Expert</a></li>
+                  </ul>
                </div>
             </div>
          </div>
