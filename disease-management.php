@@ -73,7 +73,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Personalized Treatment Plans:</h5>
+                              <h5 class="pq-process-title">Personalized Treatment Plans</h5>
                               <div class="pq-process-description">
                                  <p>Tailored strategies based on your specific symptoms and health goals.</p>
                               </div>
@@ -115,7 +115,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Nutritional Counseling: </h5>
+                              <h5 class="pq-process-title">Nutritional Counseling </h5>
                               <div class="pq-process-description">
                                  <p>Customized diet plans to manage weight, insulin resistance, and overall health. </p>
                               </div>
@@ -136,7 +136,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Lifestyle Coaching: </h5>
+                              <h5 class="pq-process-title">Lifestyle Coaching</h5>
                               <div class="pq-process-description">
                                  <p>Advice on fitness, stress management, and sustainable lifestyle changes. </p>
                               </div>
@@ -207,7 +207,7 @@ include('web/header.php');
                         </div>
                         <div class="pq-process-info">
                            <div class="pq-process-content">
-                              <h5 class="pq-process-title">Expert Consultation:</h5>
+                              <h5 class="pq-process-title">Expert Consultation</h5>
                               <div class="pq-process-description">
                                  <p>Ongoing guidance from thyroid specialists to monitor and adjust your treatment as needed.</p>
                               </div>
