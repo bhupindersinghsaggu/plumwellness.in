@@ -42,270 +42,145 @@ include('web/header.php');
                         recover more quickly.</p>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-xl-4 col-lg-6 col-md-6">
-                    <div class="pq-class-box-1">
-                        <div class="pq-class-box-media">
-                            <img decoding="async" src="images/services/1.jpg" alt="image">
-                        </div>
-                        <div class="pq-class-box-info">
-                            <h5 class="pq-class-box-title">Comprehensive & holistic care</h5>
-                            <p class="pq-class-box-description">
-                                Our psychiatrists combine medication, therapy, and lifestyle changes for a comprehensive
-                                mental health approach.</p>
-                        </div>
+            <div class="row g-0">
+                <div class="col-lg-12 col-md-12 col-xl-6 wow  fadeInLeft animated"
+                    style="visibility: visible; animation-name: fadeInLeft;">
+                    <div class="pq-form-img">
+                        <img src="images/form/1.jpg" alt="pq-form-img" class="pq-form-img">
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-6 col-md-6">
-                    <div class="pq-class-box-1">
-                        <div class="pq-class-box-media">
-                            <img decoding="async" src="images/services/2.jpg" alt="image">
+                <div class="col-lg-12 col-md-12 col-xl-6 pq-bg-primary-form wow  fadeInRight animated"
+                    style="visibility: visible; animation-name: fadeInRight;">
+                    <div class="pq-form-box">
+                        <div class="pq-section-title-style-1 pq-form-block">
+                            <h5 class="pq-section-title">Tired of a Yo-Yo Diet and
+                                a Weight Bounce Back?</h5>
                         </div>
-                        <div class="pq-class-box-info">
-                            <h5 class="pq-class-box-title">Customized treatment plans</h5>
-                            <p class="pq-class-box-description">
-                                We know everyone’s needs are unique, so we customize each treatment plan to fit your
-                                specific goals and preferences</p>
-                        </div>
+                        <p class="pq-fancy-box-title slider-sub text-white">
+                            Over 95% of people who lose weight regain it, but you’re in the right place. We believe in
+                            “Lost and Lost” weight, not “Lost and Found.” No restrictive diets, calorie counting, or
+                            carb elimination—just a focus on enjoying food as nature’s gift. This approach is the key to
+                            sustainable health.</p>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-6 col-md-6">
-                    <div class="pq-class-box-1">
-                        <div class="pq-class-box-media">
-                            <img decoding="async" src="images/services/3.jpg" alt="image">
+            </div>
+            <div class="row align-items-center sec-padding50">
+                <div class="col-lg-12 wow  fadeInDown  animated"
+                    style="visibility: visible; animation-name: fadeInDown;">
+                    <div class="pq-section-title-style-1 text-center">
+                        <h5 class="pq-section-title">Our succses-stories</h5>
+                    </div>
+                </div>
+                <div class="col-lg-12 mt-4 wow animated fadeInUp">
+                    <div class="owl-carousel owl-loaded owl-drag" data-dots="true" data-nav="false" data-desk_num="2"
+                        data-lap_num="2" data-tab_num="2" data-mob_num="1" data-mob_sm="1" data-autoplay="true"
+                        data-loop="true" data-margin="30">
+                        <div class="item">
+                            <div class="pq-service-style-5">
+                                <div class="pq-service-media">
+                                    <div class="pq-service-media-img">
+                                        <img src="images/story/1.jpg" alt="servicebox">
+                                    </div>
+                                </div>
+                                <div class="pq-service-info">
+                                    <div class="pq-info-text">
+                                        <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                                        <h5 class="pq-service-title"> Rupinder Fat Loss Transformation | Lost 8 Kgs In
+                                            Just
+                                            30 Days </h5>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="pq-class-box-info">
-                            <h5 class="pq-class-box-title">Focused on thorough diagnosis</h5>
-                            <p class="pq-class-box-description">Our focus on diagnostics enables accurate assessments
-                                and targeted treatment plans.</p>
+                        <div class="item">
+                            <div class="pq-service-style-5">
+                                <div class="pq-service-media">
+                                    <div class="pq-service-media-img">
+                                        <img src="images/story/3.jpg" alt="servicebox">
+                                    </div>
+                                </div>
+                                <div class="pq-service-info">
+                                    <div class="pq-info-text">
+                                        <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                                        <h5 class="pq-service-title"> Jyoti Fat Loss Transformation | Lost 10 Kgs In
+                                            Just 60
+                                            Days </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="pq-service-style-5">
+                                <div class="pq-service-media">
+                                    <div class="pq-service-media-img">
+                                        <img src="images/story/2.jpg" alt="servicebox">
+                                    </div>
+                                </div>
+                                <div class="pq-service-info">
+                                    <div class="pq-info-text">
+                                        <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                                        <h5 class="pq-service-title"> Sakshi Fat Loss Transformation | Lost 6 Kgs In
+                                            Just 30
+                                            Days </h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <div class="pq-service-style-5">
+                                <div class="pq-service-media">
+                                    <div class="pq-service-media-img">
+                                        <img src="images/story/4.jpg" alt="servicebox">
+                                    </div>
+                                </div>
+                                <div class="pq-service-info">
+                                    <div class="pq-info-text">
+                                        <!-- <span class="pq-service-sub-title"> nutrition </span> -->
+                                        <h5 class="pq-service-title"> Pooja Fat Loss Transformation | Lost 4 Kgs In Just
+                                            30
+                                            Days </h5>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="row mt-30 ">
-                <div class="pq-button-container d-flex justify-content-center">
-                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
-                        Book an Appoinment
-                    </button>
-                </div>
-            </div>
-            <div class="row mt-30 ">
-                <div class="pq-faq2">
-                    <div class="pq-faq2-info">
-                        <div class="col-lg-12 wow  fadeInDown animated"
-                            style="visibility: visible; animation-name: fadeInDown;">
-                            <div class="pq-section-title-style-1 text-center">
-                                <h5 class="pq-section-title">Conditions we Treat</h5>
-                            </div>
-                        </div>
-                        <div class="pq-accordion-block mt-4">
-                            <div class="pq-accordion-box 1 pq-active">
-                                <div class="pq-ad-title">
-                                    <h4 class="ad-title-text">
-                                        Depression
-                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i
-                                            aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
-                                    </h4>
-                                </div>
-                                <div class="pq-accordion-details" style="">
-                                    <div class="row mt-30">
-                                        <div class="col-sm-4 mt-30 mb-30"><img decoding="async"
-                                                src="images/services/4.webp" alt="image"></div>
-                                        <div class="col-sm-8">
-                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is
-                                                frequently misdiagnosed. With our deep expertise, we focus on
-                                                identifying the root cause of your depression and provide personalized,
-                                                evidence-based solutions. </p>
-                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments
-                                                include:</h5>
-                                            <ul class="pq-service-list-item">
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Medication management
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Natural and alternative remedies
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Structured therapeutic approaches
-                                                </li>
-                                            </ul>
-                                            <ul class="banner-cta flex ul-list-hero mt-30">
-                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i
-                                                            class="fa-solid fa-phone mgr"></i>
-                                                        Talk to us</a></li>
-                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                                                        secondary-btn md-btn" data-toggle="modal"
-                                                        data-target="#exampleModal"> <i
-                                                            class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="pq-accordion-box 2">
-                                <div class="pq-ad-title">
-                                    <h6 class="ad-title-text">
-                                        Anxiety
-                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i
-                                            aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
-                                    </h6>
-                                </div>
-                                <div class="pq-accordion-details" style="display:none;">
-                                    <div class="row mt-30">
-                                        <div class="col-sm-4 mt-30 mb-30"><img decoding="async"
-                                                src="images/services/5.png" alt="image"></div>
-                                        <div class="col-sm-8">
-                                            <p class="pq-detail-text"> Anxiety can be more disruptive than it seems at
-                                                first glance. Our dedicated team of therapists, psychiatrists, and
-                                                psychologists works with you to identify and manage anxiety triggers
-                                                through a personalized, results-oriented approach </p>
-                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments
-                                                include:</h5>
-                                            <ul class="pq-service-list-item">
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Multi-modal interventions
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Holistic strategies
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Individualized care
-                                                </li>
-                                            </ul>
-                                            <ul class="banner-cta flex ul-list-hero mt-30">
-                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i
-                                                            class="fa-solid fa-phone mgr"></i>
-                                                        Talk to us</a></li>
-                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                                                        secondary-btn md-btn" data-toggle="modal"
-                                                        data-target="#exampleModal"> <i
-                                                            class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="pq-accordion-box 3">
-                                <div class="pq-ad-title">
-                                    <h6 class="ad-title-text">
-                                        OCD
-                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i
-                                            aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
-                                    </h6>
-                                </div>
-                                <div class="pq-accordion-details" style="display:none;">
-                                    <div class="row mt-30 ">
-                                        <div class="col-sm-4 mt-30 mb-30"><img decoding="async"
-                                                src="images/services/6.webp" alt="image"></div>
-                                        <div class="col-sm-8">
-                                            <p class="pq-detail-text"> OCD is a multifaceted disorder with various
-                                                underlying causes. Our treatment plans are tailored to each individual's
-                                                unique needs, combining therapy, medication, and advanced scientific
-                                                techniques like RTMS</p>
-                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments
-                                                include:</h5>
-                                            <ul class="pq-service-list-item">
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Personalised therapy
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    RTMS treatment
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Holistic care plan
-                                                </li>
-                                            </ul>
-                                            <ul class="banner-cta flex ul-list-hero mt-30">
-                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i
-                                                            class="fa-solid fa-phone mgr"></i>
-                                                        Talk to us</a></li>
-                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                                                        secondary-btn md-btn" data-toggle="modal"
-                                                        data-target="#exampleModal"> <i
-                                                            class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="pq-accordion-box 4">
-                                <div class="pq-ad-title">
-                                    <h6 class="ad-title-text">
-                                        Bipolar
-                                        <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i
-                                            aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
-                                    </h6>
-                                </div>
-                                <div class="pq-accordion-details" style="display:none;">
-                                    <div class="row mt-30">
-                                        <div class="col-sm-4 mt-30 mb-30"><img decoding="async"
-                                                src="images/services/7.jpeg" alt="image"></div>
-                                        <div class="col-sm-8">
-                                            <p class="pq-detail-text"> The exact cause of bipolar disorder is not fully
-                                                understood, but it includes a combination of genetic, biological, and
-                                                environmental factors. Imbalances in brain chemicals and changes in the
-                                                structure or function of the brain may also play a role.</p>
-                                            <!-- <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5> -->
-                                            <ul class="banner-cta flex ul-list-hero mt-30">
-                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i
-                                                            class="fa-solid fa-phone mgr"></i>
-                                                        Talk to us</a></li>
-                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                                                        secondary-btn md-btn" data-toggle="modal"
-                                                        data-target="#exampleModal"> <i
-                                                            class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- <div class="pq-accordion-box 5">
-                                    <div class="pq-ad-title">
-                                        <h6 class="ad-title-text">
-                                        Depression
-                                            <i aria-hidden="true" class="ion ion-ios-arrow-down active"></i><i aria-hidden="true" class="ion ion-ios-arrow-up inactive"></i>
-                                        </h6>
-                                    </div>
-                                    <div class="pq-accordion-details" style="display:none;">
-                                        <div class="row mt-30 flex-row-reverse">
-                                        <div class="col-sm-4 mt-30 mb-30"><img decoding="async" src="images/services/4.webp" alt="image"></div>
-                                        <div class="col-sm-8">
-                                            <p class="pq-detail-text"> Depression is a serious condition, yet it is frequently misdiagnosed. With our deep expertise, we focus on identifying the root cause of your depression and provide personalized, evidence-based solutions. </p>
-                                            <h5 class="pq-class-box-title mb-30 mt-30">Our comprehensive treatments include:</h5>
-                                            <ul class="pq-service-list-item">
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Medication management
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Natural and alternative remedies
-                                                </li>
-                                                <li> <i class="fa-solid fa-paper-plane mr-5"
-                                                        style="color: var(--button-color);"></i>
-                                                    Structured therapeutic approaches
-                                                </li>
-                                            </ul>
-                                            <ul class="banner-cta flex ul-list-hero mt-30">
-                                                <li><a href="tel:91+919988993972" class="primary-btn1 md-btn"> <i class="fa-solid fa-phone mgr"></i>
-                                                        Talk to us</a></li>
-                                                <li><a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
-                                                        secondary-btn md-btn" data-toggle="modal" data-target="#exampleModal"> <i class="fa-brands fa-whatsapp mgr"></i> Chat with us</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    </div>
-                                </div> -->
-                        </div>
+        </div>
+    </div>
+</section>
+<section class="pq-bg-video-color pq-bg-img">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 wow  fadeInUp animated" style="visibility: visible; animation-name: fadeInUp;">
+                <div class="pq-section-title-style-1 pq-video-tittle">
+                    <!-- <div class="pq-popup-whitebg">
+                  <div class="pq-popup-video-block-style left">
+                     <div class="pq-video">
+                        <a class="pq-button pq-btn-flat default popup-youtube"
+                           href="https://www.youtube.com/watch?v=XHOmBV4js_E">
+                           <span class="pq-btn-text">
+                              <i aria-hidden="true" class="ion ion-play"></i> </span>
+                           <div class="pq-btn-cover">
+                              <span class="pq-btn-text pq-btn-cover-text">
+                                 <i aria-hidden="true" class="ion ion-play"></i> </span>
+                              <div class="pq-btn-cover-bgrnd"></div>
+                           </div>
+                        </a>
+                     </div>
+                  </div>
+               </div> -->
+                    <h5 class="pq-section-title">Trusted By More Then <span class="span-color">1000+ </span> Happy
+                        People</h5>
+                    <!-- <p class="pq-section-description pq-video-description">Today, plumwellness is not only helping
+                        clients lose weight but also supporting them in managing and reversing conditions such as
+                        PCOD/PCOS, diabetes, hypertension, and thyroid disorders.</p> -->
+                    <div class="pq-button-container pq-video-btn d-flex justify-content-center ">
+                        <a href="https://wa.me/919988993972?text=I%20want%20to%20know%20more%20about%20weight%20loss" "="" class="
+                            secondary-btn md-btn bott0n-border" data-toggle="modal" data-target="#exampleModal"> <i
+                                class=" fa-brands fa-whatsapp mgr"></i> Get Your
+                            Free Consultation</a>
                     </div>
                 </div>
             </div>
