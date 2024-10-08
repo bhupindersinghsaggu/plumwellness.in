@@ -36,10 +36,8 @@ include('web/header.php');
             <div class="col-lg-12 wow  fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
                 <div class="pq-section-title-style-1 text-center">
                     <h5 class="pq-section-title">Tailored Solutions for Sustainable Weight Loss and Wellness</h5>
-                    <p class="pq-fancy-box-title slider-sub">At Plumwellness, we believe in personalized care. Our
-                        integrated, evidence-based
-                        model is tailored to your unique needs, helping you and your family navigate depression and
-                        recover more quickly.</p>
+                    <p class="pq-fancy-box-title slider-sub">At Plumwellness, 
+                    Our weight management services provide tailored support, expert advice, and effective strategies to help you reach and maintain a healthy weight, safely and sustainably.</p>
                 </div>
             </div>
             <div class="row g-0">
