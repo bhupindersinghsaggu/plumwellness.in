@@ -9,11 +9,12 @@ include('web/header.php');
             <div class="col-xl-6 pe-xl-5 pq-process-main wow  fadeInLeft animated"
                 style="visibility: visible; animation-name: fadeInLeft;">
                 <div class="pq-section-title-style-1">
-                    <h5 class="pq-section-title mb-30 ">Your Good <span class="span-color">Health Journey
-                        </span>Starts Now! </h5>
-                    <p class="pq-fancy-box-title slider-sub">Our expert-led programs offer personalized nutrition,
-                        fitness plans, and support to help you achieve lasting weight loss, fitness, and wellness. We're
-                        with you every step of the way.</p>
+                    <h5 class="pq-section-title mb-30 ">Achieve Your Healthiest Self with a <span
+                            class="span-color">Personalized Weight Management
+                        </span>Plan! </h5>
+                    <p class="pq-fancy-box-title slider-sub">Say goodbye to fad diets and hello to a sustainable,
+                        science-backed approach to managing your weight. Our program is tailored to meet your unique
+                        needs, helping you gain control, build healthy habits, and feel confident in your own skin.</p>
                 </div>
                 <ul class="banner-cta flex ul-list-hero mrl-20">
                     <button type="button" class="btn btn-primary bg-purple" data-toggle="modal"
@@ -36,8 +37,9 @@ include('web/header.php');
             <div class="col-lg-12 wow  fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">
                 <div class="pq-section-title-style-1 text-center">
                     <h5 class="pq-section-title">Tailored Solutions for Sustainable Weight Loss and Wellness</h5>
-                    <p class="pq-fancy-box-title slider-sub">At Plumwellness, 
-                    Our weight management services provide tailored support, expert advice, and effective strategies to help you reach and maintain a healthy weight, safely and sustainably.</p>
+                    <p class="pq-fancy-box-title slider-sub">At Plumwellness,
+                        Our weight management services provide tailored support, expert advice, and effective strategies
+                        to help you reach and maintain a healthy weight, safely and sustainably.</p>
                 </div>
             </div>
             <div class="row g-0">
