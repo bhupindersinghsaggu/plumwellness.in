@@ -25,7 +25,7 @@ include('web/header.php');
             </div>
             <div class="col-xl-6 wow  fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">
                 <div class="pq-progressbar-img">
-                    <img src="images/main5.jpg" class="img-fluid" alt="images">
+                    <img src="images/main5.JPG" class="img-fluid" alt="images">
                 </div>
             </div>
         </div>
