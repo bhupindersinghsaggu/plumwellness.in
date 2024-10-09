@@ -95,9 +95,9 @@ include('web/about.php');
                             <img src="images/team/123.jpg" alt="Testimonial-image">
                         </div>
                         <div class="pq-blog-contain ">
-                            <h5 class="pq-blog-title txt-center">Dt. Jyoti </h5>
+                            <h5 class="pq-blog-title txt-center">Dr. Ishika </h5>
                             <div class="pq-testimonial-meta txt-center">
-                                <h6 class="ad-title-text">Disease Management Expert</h6><span>7+ Years of
+                                <h6 class="ad-title-text">Skin Expert</h6><span>7+ Years of
                                     Experience</span>
                             </div>
                         </div>
@@ -112,7 +112,7 @@ include('web/about.php');
                             <img src="images/team/a.jpg" alt="Testimonial-image">
                         </div>
                         <div class="pq-blog-contain ">
-                            <h5 class="pq-blog-title txt-center">Dt. Pooja </h5>
+                            <h5 class="pq-blog-title txt-center">Dt. Akansha </h5>
                             <div class="pq-testimonial-meta txt-center">
                                 <h6 class="ad-title-text">Weight Loss Expert</h6><span>8+ Years of Experience</span>
                             </div>
