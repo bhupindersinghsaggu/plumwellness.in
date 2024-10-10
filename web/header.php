@@ -113,11 +113,7 @@
                                         </li>
                                         </li>
                                         <li class="menu-item ">
-                                            <a href="#">About<i class="fa fa-chevron-down pq-submenu-icon"></a></i>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item "><a href="about.php ">About </a></li>
-                                                <li class="menu-item "><a href="disease-management.php">Team</a></li>
-                                            </ul>
+                                            <a href="about.php">About</a></i>
                                         </li>
                                         <li class="menu-item "><a href="contact-us.html">Contact Us</a>
                                         </li>
