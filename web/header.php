@@ -115,7 +115,7 @@
                                         <li class="menu-item ">
                                             <a href="about.php">About</a></i>
                                         </li>
-                                        <li class="menu-item "><a href="contact-us.html">Contact Us</a>
+                                        <li class="menu-item "><a href="contact.php">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
