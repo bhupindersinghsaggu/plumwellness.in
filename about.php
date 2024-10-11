@@ -65,7 +65,7 @@ include('web/header.php');
                         <div class="owl-carousel owl-loaded owl-drag" data-dots="false" data-nav="false"
                             data-desk_num="3" data-lap_num="3" data-tab_num="2" data-mob_num="1" data-mob_sm="1"
                             data-autoplay="true" data-loop="true" data-margin="30">
-                            <div class="item">
+                            <!-- <div class="item">
                                 <div class="pq-portfoliobox-1">
                                     <div class="pq-portfolio-block">
                                         <div class="pq-portfolio-img  ">
@@ -80,7 +80,7 @@ include('web/header.php');
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="item">
                                 <div class="pq-portfoliobox-1">
                                     <div class="pq-portfolio-block">
