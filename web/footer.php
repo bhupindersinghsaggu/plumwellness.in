@@ -24,7 +24,7 @@
                             <ul class="menu">
                                 <li><a href="weight-management.php ">Weight Management </a></li>
                                 <li><a href="disease-management.php">Disease Management</a></li>
-                                <li><a href="stress-management">Stress management</a></li>
+                                <li><a href="stress-management.php">Stress management</a></li>
                                 <li><a href="skin-hair-management.php">Skin & Hair Management</a>
                                 </li>
                             </ul>
@@ -34,9 +34,9 @@
                         <h4 class="footer-title pq-footer-service">Quick Link</h4>
                         <div class="menu-useful-link-container">
                             <ul class="menu">
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#">Meet the Team</a></li>
-                                <li><a href="#">Contact us</a></li>
+                                <li><a href="about.php">About us</a></li>
+                                <li><a href="about.php">Meet the Team</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
                             </ul>
                         </div>
                     </div>
