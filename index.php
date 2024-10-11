@@ -54,7 +54,7 @@ include('web/about.php');
                     <h5 class="pq-section-title">Meet the Team</h5>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated"
+            <!-- <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated"
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="item ">
                     <div class="pq-blog-post ">
@@ -69,8 +69,8 @@ include('web/about.php');
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated"
+            </div> -->
+            <div class="col-xl-4 col-lg-6 col-md-6 wow  fadeInUp  animated"
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="item ">
                     <div class="pq-blog-post ">
@@ -87,7 +87,7 @@ include('web/about.php');
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated"
+            <div class="col-xl-4 col-lg-6 col-md-6 wow  fadeInUp  animated"
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="item ">
                     <div class="pq-blog-post ">
@@ -104,7 +104,7 @@ include('web/about.php');
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-lg-6 col-md-6 wow  fadeInUp  animated"
+            <div class="col-xl-4 col-lg-6 col-md-6 wow  fadeInUp  animated"
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="item ">
                     <div class="pq-blog-post ">
