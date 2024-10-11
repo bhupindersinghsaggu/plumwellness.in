@@ -270,7 +270,7 @@
         display: -ms-flex;
         justify-content: center;
     }
-   
+
 
 
 }
@@ -407,10 +407,19 @@ header#pq-header .pq-top-header {
     margin-left: -20px;
 }
 
+.buy-button {
+    display: flex;
+    justify-content: center;
+}
+
+.product-button {
+    font-weight: 500;
+    font-size: 22px;
+}
 
 
 header#pq-header .pq-bottom-header .navbar .navbar-brand img {
-    height: 94px;
+    height: 85px;
 }
 
 @media (max-width: 479px) {

@@ -36,7 +36,8 @@
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="pq-icon-box pq-style-2 txt-center">
                     <div class="pq-icon">
-                        <a href="thyroid.php"><img src="images/icons/body-weight-scale .png" class="icon-pd"></a>
+                        <a href="weight-management.php"><img src="images/icons/body-weight-scale .png"
+                                class="icon-pd"></a>
                     </div>
                     <div class="pq-icon-box-content">
                         <h6 class="service-txt">Weight Mangement </h6>
@@ -44,7 +45,7 @@
                             lose weight, maintain a healthy lifestyle, or address weight-related health issues with
                             expert support.</p>
                         <div class="pq-button-container mb-30">
-                            <a class="pq-button pq-btn-link" href="#">
+                            <a class="pq-button pq-btn-link" href="weight-management.php">
                                 <span class="pq-btn-text">Know More</span>
                             </a>
                         </div>
@@ -79,7 +80,7 @@
                 style="visibility: visible; animation-name: fadeInUp;">
                 <div class="pq-icon-box pq-style-2 txt-center">
                     <div class="pq-icon">
-                        <a href="thyroid.php"><img src="images/icons/supplement.png" class="icon-pd"></a>
+                        <a href="#products"><img src="images/icons/supplement.png" class="icon-pd"></a>
                     </div>
                     <div class="pq-icon-box-content">
                         <h6 class="service-txt">Wellness Supplement

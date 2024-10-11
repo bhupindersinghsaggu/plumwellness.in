@@ -124,5 +124,6 @@ include('web/about.php');
     </div>
 </section>
 <?php
+include('web/products.php');
 include('web/footer.php');
 ?>

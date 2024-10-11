@@ -57,7 +57,7 @@
             </div>
             <div class="col-lg-5 col-md-12 wow animated zoomIn">
                 <div class="pq-about-counter-img">
-                    <img src="images/About-us/4.jpg" class="img-fluid" alt="about">
+                    <img src="images/About-us/4.png" class="img-fluid" alt="about">
                 </div>
             </div>
             <div class="col-lg-2 col-md-12 wow animated fadeInRight">

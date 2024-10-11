@@ -4331,7 +4331,8 @@ Pricebox
 ================================================*/
 .pq-pricebox-style-1 {
     background: var(--white-color);
-    padding: 45px;
+    padding-top: 45px;
+    padding-bottom: 45px;
 }
 
 .pq-pricebox-style-1 .pq-price-detail {
@@ -4345,7 +4346,7 @@ Pricebox
     display: inline-block;
     width: 100%;
     margin-bottom: 5px;
-    letter-spacing: 0.1em;
+    /* letter-spacing: 0.1em; */
     color: var(--dark-color);
     text-transform: capitalize;
     font-size: 24px;
