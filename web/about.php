@@ -196,7 +196,7 @@
                         <div class="pq-service-style-5">
                             <div class="pq-service-media">
                                 <div class="pq-service-media-img">
-                                    <img src="images/story/2.jpg" alt="servicebox">
+                                    <img src="images/story/2.JPG" alt="servicebox">
                                 </div>
                             </div>
                             <div class="pq-service-info">
@@ -213,7 +213,7 @@
                         <div class="pq-service-style-5">
                             <div class="pq-service-media">
                                 <div class="pq-service-media-img">
-                                    <img src="images/story/4.jpg" alt="servicebox">
+                                    <img src="images/story/4.JPG" alt="servicebox">
                                 </div>
                             </div>
                             <div class="pq-service-info">
