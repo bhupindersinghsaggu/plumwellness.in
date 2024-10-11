@@ -1,4 +1,4 @@
-<section class="diet-chart pq-grey-bg-color">
+<section class="diet-chart pq-grey-bg-color" id="products">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-12 wow  fadeInDown animated" style="visibility: visible; animation-name: fadeInDown;">

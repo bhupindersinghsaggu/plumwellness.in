@@ -100,7 +100,7 @@
                                                 <li class="menu-item "><a href="stress-management.php">Stress
                                                         management</a>
                                                 </li>
-                                                <li class="menu-item "><a href="wellness-supplement.php ">Wellness
+                                                <li class="menu-item "><a href="products.php ">Wellness
                                                         supplement
                                                     </a></li>
                                                 <li class="menu-item "><a href="skin-hair-management.php">Skin & Hair
@@ -109,7 +109,7 @@
                                             </ul>
                                         </li>
                                         <li class="menu-item ">
-                                            <a href="#">Health Products</a>
+                                            <a href="products.php">Health Products</a>
                                         </li>
                                         </li>
                                         <li class="menu-item ">

@@ -89,7 +89,7 @@
                             boost immunity, and improve mental clarity, helping you achieve optimal health and vitality
                         </p>
                         <div class="pq-button-container mb-30">
-                            <a class="pq-button pq-btn-link" href="#">
+                            <a class="pq-button pq-btn-link" href="#products">
                                 <span class="pq-btn-text">Know More</span>
                             </a>
                         </div>
