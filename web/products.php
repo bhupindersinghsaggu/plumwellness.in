@@ -14,7 +14,7 @@
                             <img src="images/products/1.jpg">
                         </div>
                     </div>
-                    <span class="pq-price-title product-button">Weight Management Tea</span>
+                    <span class="pq-price-title product-button">Diabetes Care </span>
                     <div class="pq-button-container">
                         <a class="pq-button pq-btn-flat"
                             href="https://wa.me/919988993972?text=I%20want%20to%20by%20Weight%20about%20management%20tea">
@@ -39,7 +39,7 @@
                             <img src="images/products/tea.jpg">
                         </div>
                     </div>
-                    <span class="pq-price-title product-button"> Diabetes Care</span>
+                    <span class="pq-price-title product-button">Weight Management Tea </span>
                     <div class="pq-button-container">
                         <a class="pq-button pq-btn-flat"
                             href="https://wa.me/919988993972?text=I%20want%20to%20by%20Weight%20about%20management%20tea">
@@ -86,10 +86,10 @@
                 <div class="pq-pricebox-style-1 text-center">
                     <div class="pq-price-detail">
                         <div>
-                            <img src="images/products/1.jpg">
+                            <img src="images/products/detox.jpg">
                         </div>
                     </div>
-                    <span class="pq-price-title product-button">Weight Management Tea</span>
+                    <span class="pq-price-title product-button">Detox Tea</span>
                     <div class="pq-button-container">
                         <a class="pq-button pq-btn-flat"
                             href="https://wa.me/919988993972?text=I%20want%20to%20by%20Weight%20about%20management%20tea">
